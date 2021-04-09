@@ -1,7 +1,7 @@
 ---
 title: Stała Michaelisa
 ---
-Wskazuje na aktywność [[Enzymy]] w zależności od stężenia substratów
+## Wskazuje na aktywność [[Enzymy]] w zależności od stężenia substratów
 
 ![img](http://e-biotechnologia.pl/obrazki/wykres_enzymy11.GIF){:height 395, :width 561}
 
