@@ -23,11 +23,10 @@ Adenozynotrifosforan
 - Pomiędzy resztami fosforanowymi → wysoko energetyczne wiązania
 
 
-> Może być wykorzystany w reakcjach Anabolizm
-> Pojawia się przy reakcjach Katabolizm
+> Może być wykorzystany w reakcjach ((60703703-52c4-451c-a784-7657cf386561)) 
+> Pojawia się przy reakcjach ((60703703-fe09-43df-bcd8-8bf1c7b4cce4)) 
 
 **Nie nadaje się do gromadzenia energii na dłuższy okres**
-
 ## Hydroliza (?)
 
 $$ATP + H2O <=> ADP + PO_4^{3-} + H^+$$
