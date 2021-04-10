@@ -31,7 +31,7 @@ $$\ce{6CO2 + 6H2O + e.sw. -> C6H12O6 + O2} $$
 :id: 60703703-fe09-43df-bcd8-8bf1c7b4cce4
 :END:
 
-**odrzucać, obniżać**
+*odrzucać, obniżać*
 
 - Reakcje **egzoenergetyczne**
 - Uwalnianie energii (odrzucanie)
