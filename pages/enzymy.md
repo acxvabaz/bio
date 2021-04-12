@@ -46,7 +46,7 @@ dołączają się do enzymu i go aktywują
 - trwale związane
 - grupa prostetyczna
 - luźno związane
-- [[Nukleotydu Nikotynoamidowe]]
+- [[Nukleotyd Nikotynoamidowe]]
 
 Enzymy złożone koenzym i kofaktor można wymiennie chyba
 
