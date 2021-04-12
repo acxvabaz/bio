@@ -32,11 +32,7 @@ Białko z __miejscem aktywnym__ w którym przyłącza się substraty
 - centrum aktywne pasuje **mniej więcej a przy kontakcie się dopasowuje**
 
 nie białkowe enzymy - [[Rybozymy]]
-
----
-
 ## Enzymy proste
-
 ## Enzymy złożone
   białko + **elementy nie białkowe** (koofaktor → jony)
 
