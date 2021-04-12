@@ -70,6 +70,7 @@ zabawy
 ## pH
 ### np. w ślinie - obojętne dobrze działa Amylazy
 ### w żołądu kwaśnie - enzymy żołądkowe
+### ![](https://cdn.discordapp.com/attachments/738092871021756817/831113589787066368/unknown.png)
 ## stężenie składników
 # Syntetazy        
 enzymy katalizujące powstawanie wiązań chemicznych **zużywające energie z [[ATP]]**
