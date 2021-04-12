@@ -72,6 +72,7 @@ zabawy
 ### w żołądu kwaśnie - enzymy żołądkowe
 ### ![](https://cdn.discordapp.com/attachments/738092871021756817/831113589787066368/unknown.png)
 ## stężenie składników
+## ![](https://media.discordapp.net/attachments/738092871021756817/831114175098912809/unknown.png?width=720&height=422)
 # Syntetazy        
 enzymy katalizujące powstawanie wiązań chemicznych **zużywające energie z [[ATP]]**
 #
