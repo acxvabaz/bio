@@ -67,7 +67,7 @@ wyjątki: pepsyna, tialina, trypsyna → w przewodzie pokarmowym → stare nazwy
 ## Temperatura
 ### zwiększenie temparatury → większa aktywność ale nie tak żeby się ścinać zaczęło bo wtedy to koniec
 zabawy
-## ![](https://media.discordapp.net/attachments/738092871021756817/831114175098912809/unknown.png?width=720&height=422)
+### ![](https://media.discordapp.net/attachments/738092871021756817/831114175098912809/unknown.png?width=720&height=422)
 ## pH
 ### np. w ślinie - obojętne dobrze działa Amylazy
 ### w żołądu kwaśnie - enzymy żołądkowe
