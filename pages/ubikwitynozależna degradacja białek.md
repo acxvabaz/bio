@@ -2,4 +2,4 @@
 title: Ubikwitynozależna degradacja białek
 ---
 
-## ![]( ![2021_04_12_image.png](https://cdn.logseq.com/%2Fe5e45817-2e35-4fc9-87d7-76c456ad960144343ff6-196f-4784-8abc-76623172b90d2021_04_12_image.png?Expires=4771824529&Signature=PNY1VZ0dC4vpCdsBZCU1Yb7Ee1aPnHpdqUihCXS6BTvjgO-Y2I645SOZ7RX-BHCD0z2CNY4xRSi5wosg1TsIVMMQozt5NegSoAZFYh3BOV9qSk24Gbkn0hVAA4BRsDXf4XGB5htFrUVrXv5pQ9Z7IP~-WwJ5MO8AfNS4hxNP5Ljiy-qKUfLw-NFp-63ot78aXs4ysQlkPEZGyTzwUbKe-O90ee-q4LBtRitRdjUQLT8phvRl-wK9dcLs2lNamxUNNyiCvazVQPkBRypv2FfpS8A2fDqRVjnRQXFIFP2z-bJ9WmJ7opdWtZH2TOMI1uJT4~E5rcwP3kjLOEpBrvhDWw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA) )
+## []
