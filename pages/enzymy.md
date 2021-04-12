@@ -72,4 +72,4 @@ zabawy
 - stężenie składników
 # Syntetazy        
 enzymy katalizujące powstawanie wiązań chemicznych **zużywające energie z [[ATP]]**
-#
+##
