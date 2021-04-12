@@ -63,13 +63,14 @@ wyjątki: pepsyna, tialina, trypsyna → w przewodzie pokarmowym → stare nazwy
 - syntezy
 
 # Czynniki wpływające na prace enzymów
-
-- [[Inhibicja]]
-- Temperatura
-- zwiększenie temparatury → większa aktywność ale nie tak żeby się ścinać zaczęło bo wtedy to koniec
+## [[Inhibicja]]
+## Temperatura
+## zwiększenie temparatury → większa aktywność ale nie tak żeby się ścinać zaczęło bo wtedy to koniec
 zabawy
-- pH
-- stężenie składników
+## pH
+### np. w ślinie - obojętne dobrze działa Amylazy
+### w żołądu kwaśnie - enzymy żołądkowe
+## stężenie składników
 # Syntetazy        
 enzymy katalizujące powstawanie wiązań chemicznych **zużywające energie z [[ATP]]**
 #
