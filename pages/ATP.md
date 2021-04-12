@@ -59,3 +59,4 @@ Fosforylacja → aktywacja związku → większa energia → szybciej wejdzie w 
 ### fosforylacja fotosyntetyczna
 #### fosforylacja w fazie fotosyntezy zależnej od światła, wytwarzanie, aby mogła zajść fotosynteza
 fotosyntetyczna
+## Defosforylacja
