@@ -65,7 +65,7 @@ wyjątki: pepsyna, tialina, trypsyna → w przewodzie pokarmowym → stare nazwy
 # Czynniki wpływające na prace enzymów
 ## [[Inhibicja]]
 ## Temperatura
-## zwiększenie temparatury → większa aktywność ale nie tak żeby się ścinać zaczęło bo wtedy to koniec
+### zwiększenie temparatury → większa aktywność ale nie tak żeby się ścinać zaczęło bo wtedy to koniec
 zabawy
 ## pH
 ### np. w ślinie - obojętne dobrze działa Amylazy
