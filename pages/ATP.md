@@ -57,6 +57,5 @@ Fosforylacja → aktywacja związku → większa energia → szybciej wejdzie w 
 ### fosforylacja oksydacyjna
 #### Podczas oddychania w mitochonodriach, najwięcej ATP
 ### fosforylacja fotosyntetyczna
-
-fosforylacja w fazie fotosyntezy zależnej od światła, wytwarzanie, aby mogła zajść fotosynteza
+#### fosforylacja w fazie fotosyntezy zależnej od światła, wytwarzanie, aby mogła zajść fotosynteza
 fotosyntetyczna
