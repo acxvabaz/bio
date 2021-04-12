@@ -74,7 +74,6 @@ wyjątki: pepsyna, tialina, trypsyna → w przewodzie pokarmowym → stare nazwy
 zabawy
 - pH
 - stężenie składników
-
-## Syntetazy        
+# Syntetazy        
 enzymy katalizujące powstawanie wiązań chemicznych **zużywające energie z [[ATP]]**
 #
