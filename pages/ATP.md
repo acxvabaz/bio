@@ -53,13 +53,9 @@ $$ATP + H2O <=> ADP + PO_4^{3-} + H^+$$
 Fosforylacja → aktywacja związku → większa energia → szybciej wejdzie w reakcje
 
 ### fosforylacja substratowa
-
-w pierwszym etapie oddychania
-
+#### w pierwszym etapie oddychania
 ### fosforylacja oksydacyjna
-
-Podczas oddychania w mitochonodriach, najwięcej ATP
-
+#### Podczas oddychania w mitochonodriach, najwięcej ATP
 ### fosforylacja fotosyntetyczna
 
 fosforylacja w fazie fotosyntezy zależnej od światła, wytwarzanie, aby mogła zajść fotosynteza
