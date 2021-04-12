@@ -6,3 +6,4 @@ title: Aktywacja proteolityczna
 ### proenzymy
 ### zymogeny
 ### Muszą ulec dopiero aktywacji np. podczas [[hydroliza]]
+## Ważne poniewaz czasami potrzeba aby enzymu aktywował się w określonym miejscu
