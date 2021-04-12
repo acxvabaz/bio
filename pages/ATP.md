@@ -61,3 +61,4 @@ Fosforylacja → aktywacja związku → większa energia → szybciej wejdzie w 
 #### fosforylacja w fazie fotosyntezy zależnej od światła, wytwarzanie, aby mogła zajść fotosynteza
 fotosyntetyczna
 ## Defosforylacja
+### fosfotaza ? powoduje wyłączenie enzymu
