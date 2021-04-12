@@ -44,6 +44,3 @@ $$ATP + H2O <=> ADP + PO_4^{3-} + H^+$$
 ## ATP-aza
 
 [[Enzymy]] katalizujący rozpad ATP do ADP
-
-
-
