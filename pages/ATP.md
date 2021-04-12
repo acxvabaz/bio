@@ -51,7 +51,7 @@ $$ATP + H2O <=> ADP + PO_4^{3-} + H^+$$
 > Przyłączenie reszty fosforynowej
 
 Fosforylacja → aktywacja związku → większa energia → szybciej wejdzie w reakcje
-###
+### Enzym
 ### fosforylacja substratowa
 #### w pierwszym etapie oddychania
 ### fosforylacja oksydacyjna
