@@ -62,7 +62,7 @@ wyjątki: pepsyna, tialina, trypsyna → w przewodzie pokarmowym → stare nazwy
 - izomeryzacja
 - syntezy
 
-# Czynniki wpływające na prace enzymów
+# **Czynniki wpływające na prace enzymów**
 ## [[Inhibicja]]
 ## Temperatura
 ### zwiększenie temparatury → większa aktywność ale nie tak żeby się ścinać zaczęło bo wtedy to koniec
