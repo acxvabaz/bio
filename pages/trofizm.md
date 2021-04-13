@@ -1,0 +1,5 @@
+---
+title: Trofizm
+---
+
+## Autotrofizm
