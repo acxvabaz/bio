@@ -23,4 +23,5 @@ Stosiki
 #### Rybosomy
 Bakteryjne (70s)
 ###
+##
 ## Barwniki fotosyntetyczne
