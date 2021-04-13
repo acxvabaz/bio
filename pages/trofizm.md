@@ -9,3 +9,4 @@ Z udziałem energi świetlnej
 #### [[Fotosynteza]]
 ### Chemoautotrofizm
 Z udziałem energii chemicznej
+#### [[Chemosynteza]]
