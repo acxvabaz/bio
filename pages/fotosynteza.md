@@ -25,3 +25,8 @@ Bakteryjne (70s)
 ###
 ##
 ## Barwniki fotosyntetyczne
+### Chlorofil
+#### a
+#### b
+### Karoten
+### Ksantofil
