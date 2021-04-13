@@ -25,6 +25,7 @@ Bakteryjne (70s)
 ### Nośniki elektronów
 ### Barwniki fotosyntetyczne
 #### Chlorofil
+[]
 ##### **a**
 ##### **b**
 #### Karoten
