@@ -26,7 +26,6 @@ Bakteryjne (70s)
 ### Barwniki fotosyntetyczne
 #### Chlorofil
 _Magnez_ → białko złożone
--
 ##### **a**
 ##### **b**
 #### Karoten
