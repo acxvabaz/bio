@@ -9,3 +9,4 @@ $$CO_2 + H_2O + ENE -> C_6H_{12}O_6 + O_2$$
 - Tlen w produktach
 ## Fotosynteza Beztlenowa
 - Bez tlenu w produktach
+### Wykorzystują $H_2S$ zamiast wody ponieważ **nie oddychają tlenowo** tlen może im zaszkodzić. zamiast tego uwalnia się siarka
