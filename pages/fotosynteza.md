@@ -4,7 +4,7 @@ title: Fotosynteza
 
 ## 
 $$6CO_2 + 6H_2O + ENE -> C_6H_{12}O_6 + 6O_2$$
-## Dzięki fotosyntezie tlen → oddychanie tlenowe → więcej energii → więcej możliwości
+## fDzięki fotosyntezie tlen → oddychanie tlenowe → więcej energii → więcej możliwości
 ## Fotosynteza Tlenowa
 - Tlen w produktach
 ## Fotosynteza Beztlenowa
