@@ -25,7 +25,8 @@ Bakteryjne (70s)
 ### Nośniki elektronów
 ### Barwniki fotosyntetyczne
 #### Chlorofil
-_Magnez_
+_Magnez_ → białko złożone
+-
 ##### **a**
 ##### **b**
 #### Karoten
