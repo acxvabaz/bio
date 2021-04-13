@@ -22,7 +22,7 @@ Stosiki
 (matrix) znajduje się tu koliste DNA
 #### Rybosomy
 Bakteryjne (70s)
-###
+### Nośniki elektronów
 ### Barwniki fotosyntetyczne
 #### Chlorofil
 ##### a
