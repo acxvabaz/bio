@@ -2,7 +2,7 @@
 title: Trofizm
 ---
 
-## Autotrofizm
+## **Autotrofizm**
 Samożywność - tworzenie ze związków nieorganicznych z udziałem energii związków **organicznych**
 ### Fotoautotrofizm
 Z udziałem energi świetlnej
@@ -10,3 +10,5 @@ Z udziałem energi świetlnej
 ### Chemoautotrofizm
 Z udziałem energii chemicznej
 #### [[Chemosynteza]]
+## **Heterotrofizm**
+Związki organiczne pobierane z otoczenia
