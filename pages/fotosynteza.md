@@ -72,11 +72,11 @@ _Magnez_ → białko złożone
 #### MECHANIZM
 ##### Schematy/multimedia
 ###### [[draws/2021-04-14-14-51-16.excalidraw]]
-###### {{youtube https://youtu.be/WhCczIqADuI?t=527}}
 ###### {{youtube https://youtu.be/z74LNRGcMy0?t=78}}
 ##### **Elektrony**
 ###### ((607687cf-2a3d-438c-bd23-d56f01a6fbfa)) kumulują energię co pozwala na wybicie elektronów
 ####### ich energia jest używana do transportu jonów $H^+$ do wnętrza tylakoidu
+###### {{youtube https://youtu.be/WhCczIqADuI?t=527}}
 ###### elektrony są uzupełniane z **fotolizy wody** → do ((607688da-2a3f-4da5-868b-14cf57211df9))
 ####### Enzymy katalizujące fotlize wody, wymagają **MANGANU**
 ###### Elektory przemieszczają się na błonie
