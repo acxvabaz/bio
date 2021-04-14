@@ -75,14 +75,14 @@ _Magnez_ → białko złożone
 ###### elektrony są uzupełniane z **fotolizy wody** → do ((607688da-2a3f-4da5-868b-14cf57211df9))
 ####### Enzymy katalizujące fotlize wody, wymagają **MANGANU**
 ###### Elektory przemieszczają się na błonie
+####### **Elektrony wybite z PS I redukują** ((607068fa-9c7e-402f-816b-c852d81cd14b))  i powstaje  ((6076ac93-d429-41c4-b95a-9531c1f5e877))
+######## patrz: [[Nukleotydy Nikotynoamidowe]]
 ##### Protony
 ###### Wtłaczanie protonów (H+) przez przenośniki białkowe do środka tylakoidu
 ###### Syntaza [[ATP]]
 ####### jedyna droga powrotu do stromy
 ####### Powstaje ATP
 ####### ADP + reszta fosforanowa ---> jak przez kanał przepływają H+ tworzą ATP
-##### **Elektrony wybite z PS I redukują** ((607068fa-9c7e-402f-816b-c852d81cd14b))  i powstaje  ((6076ac93-d429-41c4-b95a-9531c1f5e877))
-###### patrz: [[Nukleotydy Nikotynoamidowe]]
 ##### [[Fosforylacja]] ((60742459-19ed-4efa-b9a3-c0b437a3eb9b)) - nie cykliczna
 ###### powstaje zredukowane ((607068fa-9c7e-402f-816b-c852d81cd14b))
 ###### Fotoliza H2O
