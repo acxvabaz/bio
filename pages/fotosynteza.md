@@ -73,7 +73,6 @@ _Magnez_ → białko złożone
 ##### Schematy/multimedia
 ###### [[draws/2021-04-14-14-51-16.excalidraw]]
 ###### {{youtube https://youtu.be/WhCczIqADuI?t=527}}
-###### {{youtube https://www.youtube.com/watch?v=dydm4Vrf4XA}}
 ###### {{youtube https://youtu.be/z74LNRGcMy0?t=78}}
 ##### **Elektrony**
 ###### ((607687cf-2a3d-438c-bd23-d56f01a6fbfa)) kumulują energię co pozwala na wybicie elektronów
@@ -106,6 +105,7 @@ _Magnez_ → białko złożone
 ##### poswstaje Cukier i skrobianie jes
 #### Media/schematy
 #### Mechanizm
+##### {{youtube https://www.youtube.com/watch?v=dydm4Vrf4XA}}
 ##### Faza karboksylacji
 ##### Faza redukcji
 ##### Faza regeneracji
