@@ -13,7 +13,7 @@ title: Nukleotydy Nikotynoamidowe
 :id: 607068fa-9c7e-402f-816b-c852d81cd14b
 :END:
 - Fosforan dinukleotydu nikotynoamidoadeninowego
-## NADPH+ + H+
+### NADPH+ + H+
 - W **fotosyntezie**
 Pozwalają na przeprowadzanie reakcji utleniania i rdukcji
 
