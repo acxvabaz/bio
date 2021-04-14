@@ -17,5 +17,9 @@ Fosforylacja → aktywacja związku → większa energia → szybciej wejdzie w 
 :END:
 #### fosforylacja w fazie fotosyntezy zależnej od światła, wytwarzanie, aby mogła zajść fotosynteza
 fotosyntetyczna
+#### Cykliczna
+##### Nie powstaje zredukowany ((607068fa-9c7e-402f-816b-c852d81cd14b))
+#### Niecykliczna
+##### E
 ## Defosforylacja
 ### fosfotaza ? powoduje wyłączenie enzymu
