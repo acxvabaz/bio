@@ -28,6 +28,7 @@ Bakteryjne (70s)
 :id: 607540c5-e014-4257-84f6-9f4fa9cb294c
 :END:
 #### najlepiej pochłaniają światło koloru **niebieskiego i czerwonego**
+#### Dodatkowe barwniki **zwiększają zakres światła** jaki może zaabsorbować roślina
 #### ![](https://media.discordapp.net/attachments/738092871021756817/831767972518821908/unknown.png?width=720&height=320)
 #### Chlorofil
 _Magnez_ → białko złożone
