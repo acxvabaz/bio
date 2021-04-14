@@ -66,7 +66,7 @@ _Magnez_ → białko złożone
 ##### W błonach tylakoidów ((6075417a-5a50-4fd0-9fab-ecb2e5426572))
 ##### Powstaje zredukowany ((607068fa-9c7e-402f-816b-c852d81cd14b)) ([[Nukleotydy Nikotynoamidowe]])
 ###### Przenosi elektrony i protony do następnej fazy
-#### Powstaje też [[ATP]]
+##### Powstaje też [[ATP]]
 #### MECHANIZM
 ##### ((607687cf-2a3d-438c-bd23-d56f01a6fbfa)) kumulują energię co pozwala na wybicie elektronów
 ##### elektrony są uzupełniane z **fotolizy wody** → do ((607688da-2a3f-4da5-868b-14cf57211df9))
