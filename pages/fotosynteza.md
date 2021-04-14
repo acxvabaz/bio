@@ -67,7 +67,10 @@ _Magnez_ → białko złożone
 ###### ![](https://media.discordapp.net/attachments/738092871021756817/831773821064314910/unknown.png?width=720&height=437)
 ##### elektrony są uzupełniane z **fotolizy wody**
 ###### ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Faza_jasna_fotosyntezy.svg/1200px-Faza_jasna_fotosyntezy.svg.png){:height 452, :width 538}
-###### elekt
+###### Elektory przemieszczane na błonie
+###### Pompa protonowa
+####### Wtłaczanie protonów (H+) przez przenośniki białkowe
+######
 ### Faza ciemna
 #### Światło **nie jest** potrzebne
 #### zachodzi w ((60754180-0359-4d8e-b69b-7d6ab0718964))
