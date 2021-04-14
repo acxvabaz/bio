@@ -22,6 +22,8 @@ fotosyntetyczna
 ##### **nie powstaje **tlen bo nie ma fotolizy H2O
 ##### Bierze udział tylko jeden fotoukład
 #### Niecykliczna
+##### Zachodzi fotoliza H2O
+##### Powstaje zredukowane ((607068fa-9c7e-402f-816b-c852d81cd14b))
 ## Defosforylacja
 ### fosfotaza ? powoduje wyłączenie enzymu
 ## Jest przeprowadzana przez [[Syntaza ATP]]
