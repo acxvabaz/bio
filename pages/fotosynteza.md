@@ -77,6 +77,7 @@ _Magnez_ → białko złożone
 ##### **Elektrony**
 ###### ((607687cf-2a3d-438c-bd23-d56f01a6fbfa)) kumulują energię co pozwala na wybicie elektronów
 ####### ich energia jest używana do transportu jonów $H^+$ do wnętrza tylakoidu
+###### [[draws/2021-04-14-14-51-16.excalidraw]]
 ###### elektrony są uzupełniane z **fotolizy wody** → do ((607688da-2a3f-4da5-868b-14cf57211df9))
 ####### Enzymy katalizujące fotlize wody, wymagają **MANGANU**
 ###### Elektory przemieszczają się na błonie
@@ -101,4 +102,3 @@ _Magnez_ → białko złożone
 #### zachodzi w ((60754180-0359-4d8e-b69b-7d6ab0718964))
 #### Potrzebne produkty ((607684a4-502c-4a78-9161-3eeabef87cfd)) Dwutlenek węgla
 #### poswstaje Cukier i skrobianie jes
-### [[draws/2021-04-14-14-51-16.excalidraw]]
