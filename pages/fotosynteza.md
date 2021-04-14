@@ -76,7 +76,7 @@ _Magnez_ → białko złożone
 ###### kanał syntazy ATP
 ####### jedyna droga powrotu do stromy
 ####### Powstaje [[ATP]]
-##### **Elektrony wybite z PS I redukują** ((607068fa-9c7e-402f-816b-c852d81cd14b))  i powstaje ^^NADPH^^
+##### **Elektrony wybite z PS I redukują** ((607068fa-9c7e-402f-816b-c852d81cd14b))  i powstaje ^^NADPH+^^
 ###### patrz: [[Nukleotydy Nikotynoamidowe]]
 ##### [[Fosforylacja]] ((60742459-19ed-4efa-b9a3-c0b437a3eb9b)) - nie cykliczna
 ###### powstaje zredukowane ((607068fa-9c7e-402f-816b-c852d81cd14b))
