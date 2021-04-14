@@ -2,10 +2,11 @@
 title: Fosforylacja
 ---
 
-## Fosforylacja
+##
 > Przyłączenie reszty fosforynowej
 
 Fosforylacja → aktywacja związku → większa energia → szybciej wejdzie w reakcje
+##
 ### Enzym [[kinaza białkowa]] + [[ATP]] powoduje **włączenie enzymu**
 ### fosforylacja substratowa
 #### w pierwszym etapie oddychania
