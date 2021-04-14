@@ -24,3 +24,4 @@ fotosyntetyczna
 #### Niecykliczna
 ## Defosforylacja
 ### fosfotaza ? powoduje wyłączenie enzymu
+## Jest przeprowadzana przez [[Syntaza ATP]]
