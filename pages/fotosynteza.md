@@ -72,6 +72,7 @@ _Magnez_ → białko złożone
 ###### Wtłaczanie protonów (H+) przez przenośniki białkowe
 ###### kanał syntazy ATP
 ####### jedyna droga powrotu do stromy
+####### Transport wspomagany
 ##### **Elektrony wybite z PS I redukują** ((607068fa-9c7e-402f-816b-c852d81cd14b))  i powstaje NADPH
 ### Faza ciemna
 #### Światło **nie jest** potrzebne
