@@ -70,7 +70,7 @@ _Magnez_ → białko złożone
 ##### Elektory przemieszczane na błonie
 ##### Pompa protonowa
 ###### Wtłaczanie protonów (H+) przez przenośniki białkowe
-##### ^^Elektrony wybite z PS I redukują^^ ((607068fa-9c7e-402f-816b-c852d81cd14b))  i powstaje NADPH
+##### Elektrony wybite z PS I redukują ((607068fa-9c7e-402f-816b-c852d81cd14b))  i powstaje NADPH
 ### Faza ciemna
 #### Światło **nie jest** potrzebne
 #### zachodzi w ((60754180-0359-4d8e-b69b-7d6ab0718964))
