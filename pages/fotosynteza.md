@@ -36,4 +36,5 @@ _Magnez_ → białko złożone
 ##### **b**
 #### Karoten
 #### Ksantofil
-## w
+## [[draws/2021-04-14-07-54-29.excalidraw]]
+##
