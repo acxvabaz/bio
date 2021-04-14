@@ -19,6 +19,9 @@ $$6CO_2 + 6H_2O + ENE -> C_6H_{12}O_6 + 6O_2$$
 :END:
 Stosiki
 ###### Barwniki w błonach tworzą ^^fotosystemy^^
+:PROPERTIES:
+:id: 607687cf-2a3d-438c-bd23-d56f01a6fbfa
+:END:
 - kumulują energie aby zebrana mogła wybić elektrony
 ####### ![](https://media.discordapp.net/attachments/738092871021756817/831773821064314910/unknown.png?width=720&height=437)
 ####### PS I 
@@ -63,6 +66,7 @@ _Magnez_ → białko złożone
 #### Powstaje też [[ATP]]
 ####
 ---
+#### ((607687cf-2a3d-438c-bd23-d56f01a6fbfa)) kumulują energię co pozwala na wybicie elektronów
 ####
 ### Faza ciemna
 #### Światło **nie jest** potrzebne
