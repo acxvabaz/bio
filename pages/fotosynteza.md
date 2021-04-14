@@ -20,6 +20,7 @@ $$6CO_2 + 6H_2O + ENE -> C_6H_{12}O_6 + 6O_2$$
 Stosiki
 ###### Barwniki w błonach tworzą ^^fotosystemy^^
 - kumulują energie aby zebrana mogła wybić elektrony
+####### !
 ####### PS I 
 - bardziej pierwotny
 ####### PS II 
