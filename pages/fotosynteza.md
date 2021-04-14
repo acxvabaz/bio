@@ -71,7 +71,7 @@ _Magnez_ → białko złożone
 ##### Powstaje też [[ATP]]
 #### MECHANIZM
 ##### Schematy/multimedia
-######
+###### {{youtube https://youtu.be/WhCczIqADuI?t=527}}
 ###### [[draws/2021-04-14-14-51-16.excalidraw]]
 ###### {{youtube https://www.youtube.com/watch?v=dydm4Vrf4XA}}
 ##### **Elektrony**
