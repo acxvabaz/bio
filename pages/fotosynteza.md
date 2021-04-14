@@ -56,7 +56,8 @@ _Magnez_ → białko złożone
 #### Karoten
 #### Ksantofil
 ## Etapy fotosyntezy
-### ![](https://media.discordapp.net/attachments/738092871021756817/831770541471039488/unknown.png?width=720&height=594)
+### Schemat/media
+#### ![](https://media.discordapp.net/attachments/738092871021756817/831770541471039488/unknown.png?width=720&height=594)
 ### Faza jasna
 :PROPERTIES:
 :id: 607684a4-502c-4a78-9161-3eeabef87cfd
