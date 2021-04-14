@@ -75,8 +75,8 @@ _Magnez_ → białko złożone
 ###### elektrony są uzupełniane z **fotolizy wody** → do ((607688da-2a3f-4da5-868b-14cf57211df9))
 ####### Enzymy katalizujące fotlize wody, wymagają **MANGANU**
 ###### Elektory przemieszczają się na błonie
-##### Pompa protonowa
-###### Wtłaczanie protonów (H+) przez przenośniki białkowe
+##### Protony
+###### Wtłaczanie protonów (H+) przez przenośniki białkowe do środka tylakoidu
 ###### Syntaza ATP
 ####### jedyna droga powrotu do stromy
 ####### Powstaje [[ATP]]
