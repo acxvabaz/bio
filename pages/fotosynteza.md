@@ -79,7 +79,8 @@ _Magnez_ → białko złożone
 ###### {{youtube https://youtu.be/WhCczIqADuI?t=527}}
 ###### elektrony są uzupełniane z **fotolizy wody** → do ((607688da-2a3f-4da5-868b-14cf57211df9))
 ####### Enzymy katalizujące fotlize wody, wymagają **MANGANU**
-###### Elektrony przemieszczają się
+###### Elektrony przemieszczają się poprzez cytochrom b6f i plastocyjanine
+a później uzupełniając elektrony wybitez PS I
 ###### **Elektrony wybite z PS I redukują** ((607068fa-9c7e-402f-816b-c852d81cd14b))  i powstaje  ((6076ac93-d429-41c4-b95a-9531c1f5e877))
 ####### patrz: [[Nukleotydy Nikotynoamidowe]]
 ##### **Protony**
