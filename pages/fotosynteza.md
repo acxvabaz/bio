@@ -25,6 +25,7 @@ Stosiki
 - kumulują energie aby zebrana mogła wybić elektrony
 ####### PS I 
 - bardziej pierwotny
+######## ![](https://media.discordapp.net/attachments/738092871021756817/831773821064314910/unknown.png?width=720&height=437)
 ####### PS II 
 :PROPERTIES:
 :id: 607688da-2a3f-4da5-868b-14cf57211df9
@@ -51,7 +52,6 @@ Bakteryjne (70s)
 #### Chlorofil
 _Magnez_ → białko złożone
 ##### **a**
-##### ![](https://media.discordapp.net/attachments/738092871021756817/831773821064314910/unknown.png?width=720&height=437)
 ##### **b**
 #### Karoten
 #### Ksantofil
