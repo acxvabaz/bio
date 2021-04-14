@@ -31,4 +31,4 @@ _Magnez_ → białko złożone
 #### Karoten
 #### Ksantofil
 ## Światło
-### Używają światła **niebieskiego i czerwonego**
+### Używają światła **niebieskiego i czerwonego** najbardziej
