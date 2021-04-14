@@ -19,8 +19,10 @@ $$6CO_2 + 6H_2O + ENE -> C_6H_{12}O_6 + 6O_2$$
 :END:
 Stosiki
 ###### Barwniki w błonach tworzą ^^fotosystemy^^
-####### PS I
-####### PS II
+####### PS I 
+- bardziej pierwotny
+####### PS II 
+- skład barw. char. dla roślin wyższych
 ##### Stromy
 :PROPERTIES:
 :id: 60754180-0359-4d8e-b69b-7d6ab0718964
