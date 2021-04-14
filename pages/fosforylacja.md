@@ -22,7 +22,6 @@ fotosyntetyczna
 ##### nie powstaje tlen bo nie ma fotolizy H2O
 ##### Bierze udział tylko jeden foroukład
 #### Niecykliczna
-#### https://cdn.rcsb.org/images/structures/vo/6vof/6vof_assembly-1.jpeg
 ## Defosforylacja
 ### fosfotaza ? powoduje wyłączenie enzymu
 ## Jest przeprowadzana przez [[Syntaza ATP]]
