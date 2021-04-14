@@ -18,7 +18,7 @@ Fosforylacja → aktywacja związku → większa energia → szybciej wejdzie w 
 #### fosforylacja w fazie fotosyntezy zależnej od światła, wytwarzanie, aby mogła zajść fotosynteza
 fotosyntetyczna
 #### Cykliczna
-##### Nie powstaje zredukowany ((607068fa-9c7e-402f-816b-c852d81cd14b))
+##### **Nie powstaje** zredukowany ((607068fa-9c7e-402f-816b-c852d81cd14b))
 ##### nie powstaje tlen bo nie ma fotolizy H2O
 ##### Bierze udział tylko jeden foroukład
 #### Niecykliczna
