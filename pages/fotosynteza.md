@@ -18,6 +18,9 @@ $$6CO_2 + 6H_2O + ENE -> C_6H_{12}O_6 + 6O_2$$
 :id: 6075417a-5a50-4fd0-9fab-ecb2e5426572
 :END:
 Stosiki
+###### Barwniki w błonach tworzą ^^fotosystemy^^
+####### PS I
+####### PS II
 ##### Stromy
 :PROPERTIES:
 :id: 60754180-0359-4d8e-b69b-7d6ab0718964
