@@ -19,6 +19,9 @@ $$6CO_2 + 6H_2O + ENE -> C_6H_{12}O_6 + 6O_2$$
 :END:
 Stosiki
 ##### Stromy
+:PROPERTIES:
+:id: 60754180-0359-4d8e-b69b-7d6ab0718964
+:END:
 łączy grany
 ##### ^^Na błonach tylakoidów zachodzi fotosynteza^^
 #### Stroma
@@ -53,5 +56,5 @@ _Magnez_ → białko złożone
 #### Powstaje też [[ATP]]
 ### Faza ciemna
 #### Światło **nie jest** potrzebne
-#### zachodzi w
+#### zachodzi w ((60754180-0359-4d8e-b69b-7d6ab0718964))
 #### Potrzebne produkty ((607684a4-502c-4a78-9161-3eeabef87cfd)) Dwutlenek węgla
