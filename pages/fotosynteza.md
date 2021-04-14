@@ -24,6 +24,9 @@ Stosiki
 Bakteryjne (70s)
 ### Nośniki elektronów
 ### Barwniki fotosyntetyczne
+:PROPERTIES:
+:id: 607540c5-e014-4257-84f6-9f4fa9cb294c
+:END:
 #### Chlorofil
 _Magnez_ → białko złożone
 ##### **a**
@@ -31,4 +34,4 @@ _Magnez_ → białko złożone
 #### Karoten
 #### Ksantofil
 ## Światło
-### Używają światła **niebieskiego i czerwonego** najbardziej
+### ((607540c5-e014-4257-84f6-9f4fa9cb294c)) najlepiej pochłaniają światło koloru **niebieskiego i czerwonego** najbardziej
