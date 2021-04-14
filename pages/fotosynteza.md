@@ -70,14 +70,14 @@ _Magnez_ → białko złożone
 #### MECHANIZM
 ##### Schemat
 ###### ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Faza_jasna_fotosyntezy.svg/1200px-Faza_jasna_fotosyntezy.svg.png){:height 452, :width 538}
-##### Elektrony
+##### **Elektrony**
 ###### ((607687cf-2a3d-438c-bd23-d56f01a6fbfa)) kumulują energię co pozwala na wybicie elektronów
 ###### elektrony są uzupełniane z **fotolizy wody** → do ((607688da-2a3f-4da5-868b-14cf57211df9))
 ####### Enzymy katalizujące fotlize wody, wymagają **MANGANU**
 ###### Elektory przemieszczają się na błonie
 ###### **Elektrony wybite z PS I redukują** ((607068fa-9c7e-402f-816b-c852d81cd14b))  i powstaje  ((6076ac93-d429-41c4-b95a-9531c1f5e877))
 ####### patrz: [[Nukleotydy Nikotynoamidowe]]
-##### Protony
+##### **Protony**
 ###### Wtłaczanie protonów (H+) przez przenośniki białkowe do środka tylakoidu
 ###### Syntaza [[ATP]]
 ####### jedyna droga powrotu do stromy
