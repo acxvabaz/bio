@@ -99,7 +99,8 @@ _Magnez_ → białko złożone
 ######### Nie powstaje ((6076ac93-d429-41c4-b95a-9531c1f5e877))
 ######### Powstaje [[ATP]]
 ### Faza ciemna
-#### Światło **nie jest** potrzebne
-#### zachodzi w ((60754180-0359-4d8e-b69b-7d6ab0718964))
-#### Potrzebne produkty ((607684a4-502c-4a78-9161-3eeabef87cfd)) Dwutlenek węgla
-#### poswstaje Cukier i skrobianie jes
+#### Podst. info
+##### Światło **nie jest** potrzebne
+##### zachodzi w ((60754180-0359-4d8e-b69b-7d6ab0718964))
+##### Potrzebne produkty ((607684a4-502c-4a78-9161-3eeabef87cfd)) Dwutlenek węgla
+##### poswstaje Cukier i skrobianie jes
