@@ -107,4 +107,5 @@ _Magnez_ → białko złożone
 #### Media/schematy
 #### Mechanizm
 ##### Faza karboksylacji
-###### Faza
+##### Faza redukcji
+##### Faza regeneracji
