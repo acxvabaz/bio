@@ -41,7 +41,7 @@ _Magnez_ → białko złożone
 ### ![](https://media.discordapp.net/attachments/738092871021756817/831770541471039488/unknown.png?width=720&height=594)
 ### Faza jasna
 #### Zależna od światła
-#### W błonach tylakoidów
+#### W błonach tylako
 ####
 ### Faza ciemna
 #### Światło **nie jest** potrzebne
