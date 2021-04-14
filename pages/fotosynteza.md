@@ -43,6 +43,9 @@ _Magnez_ → białko złożone
 ## Etapy fotosyntezy
 ### ![](https://media.discordapp.net/attachments/738092871021756817/831770541471039488/unknown.png?width=720&height=594)
 ### Faza jasna
+:PROPERTIES:
+:id: 607684a4-502c-4a78-9161-3eeabef87cfd
+:END:
 #### Zależna od światła
 #### W błonach tylakoidów ((6075417a-5a50-4fd0-9fab-ecb2e5426572))
 #### Powstaje zredukowany ((607068fa-9c7e-402f-816b-c852d81cd14b)) ([[Nukleotydy Nikotynoamidowe]])
@@ -50,3 +53,4 @@ _Magnez_ → białko złożone
 #### Powstaje też [[ATP]]
 ### Faza ciemna
 #### Światło **nie jest** potrzebne
+#### Potrzebne produkty ((607684a4-502c-4a78-9161-3eeabef87cfd))
