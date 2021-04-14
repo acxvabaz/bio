@@ -78,7 +78,7 @@ _Magnez_ → białko złożone
 ##### **Elektrony**
 ###### ((607687cf-2a3d-438c-bd23-d56f01a6fbfa)) kumulują energię co pozwala na wybicie elektronów
 ####### ich energia jest używana do transportu jonów $H^+$ do wnętrza tylakoidu
-####### (Plastochinon → transport z PS do cytochromu b6f )
+####### Plastochinon → transport z PS do cytochromu b6f → transport protonów
 ###### elektrony są uzupełniane z **fotolizy wody** → do ((607688da-2a3f-4da5-868b-14cf57211df9))
 ####### Enzymy katalizujące fotlize wody, wymagają **MANGANU**
 ###### Elektory przemieszczają się na błonie
