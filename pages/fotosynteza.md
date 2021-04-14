@@ -105,4 +105,6 @@ _Magnez_ → białko złożone
 ##### Potrzebne produkty ((607684a4-502c-4a78-9161-3eeabef87cfd)) Dwutlenek węgla
 ##### poswstaje Cukier i skrobianie jes
 #### Media/schematy
-####
+#### Mechanizm
+##### Faza karboksylacji
+###### Faza
