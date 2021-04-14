@@ -57,7 +57,6 @@ _Magnez_ → białko złożone
 :PROPERTIES:
 :id: 607684a4-502c-4a78-9161-3eeabef87cfd
 :END:
-#### ![](https://media.discordapp.net/attachments/738092871021756817/831773821064314910/unknown.png?width=720&height=437)
 #### Zależna od światła
 #### W błonach tylakoidów ((6075417a-5a50-4fd0-9fab-ecb2e5426572))
 #### Powstaje zredukowany ((607068fa-9c7e-402f-816b-c852d81cd14b)) ([[Nukleotydy Nikotynoamidowe]])
@@ -65,6 +64,7 @@ _Magnez_ → białko złożone
 #### Powstaje też [[ATP]]
 #### MECHANIZM
 ##### ((607687cf-2a3d-438c-bd23-d56f01a6fbfa)) kumulują energię co pozwala na wybicie elektronów
+###### ![](https://media.discordapp.net/attachments/738092871021756817/831773821064314910/unknown.png?width=720&height=437)
 ##### elektrony są uzupełniane z wody
 ### Faza ciemna
 #### Światło **nie jest** potrzebne
