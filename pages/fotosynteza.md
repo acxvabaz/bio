@@ -53,4 +53,5 @@ _Magnez_ → białko złożone
 #### Powstaje też [[ATP]]
 ### Faza ciemna
 #### Światło **nie jest** potrzebne
-#### Potrzebne produkty ((607684a4-502c-4a78-9161-3eeabef87cfd))
+#### zachodzi w
+#### Potrzebne produkty ((607684a4-502c-4a78-9161-3eeabef87cfd)) Dwutlenek węgla
