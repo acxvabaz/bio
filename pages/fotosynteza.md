@@ -68,7 +68,8 @@ _Magnez_ → białko złożone
 ###### Przenosi elektrony i protony do następnej fazy
 ##### Powstaje też [[ATP]]
 #### MECHANIZM
-##### ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Faza_jasna_fotosyntezy.svg/1200px-Faza_jasna_fotosyntezy.svg.png){:height 452, :width 538}
+##### Schemat
+###### ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Faza_jasna_fotosyntezy.svg/1200px-Faza_jasna_fotosyntezy.svg.png){:height 452, :width 538}
 ##### Elektrony
 ###### ((607687cf-2a3d-438c-bd23-d56f01a6fbfa)) kumulują energię co pozwala na wybicie elektronów
 ###### elektrony są uzupełniane z **fotolizy wody** → do ((607688da-2a3f-4da5-868b-14cf57211df9))
