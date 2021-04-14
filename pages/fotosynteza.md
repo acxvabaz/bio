@@ -27,6 +27,7 @@ Bakteryjne (70s)
 :PROPERTIES:
 :id: 607540c5-e014-4257-84f6-9f4fa9cb294c
 :END:
+####
 #### Chlorofil
 _Magnez_ → białko złożone
 ##### **a**
