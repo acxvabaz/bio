@@ -65,7 +65,6 @@ _Magnez_ → białko złożone
 ##### Zależna od światła
 ##### W błonach tylakoidów ((6075417a-5a50-4fd0-9fab-ecb2e5426572))
 ##### Powstaje zredukowany ((607068fa-9c7e-402f-816b-c852d81cd14b)) ([[Nukleotydy Nikotynoamidowe]])
-###### Przenosi elektrony i protony do następnej fazy
 ##### Powstaje też [[ATP]]
 #### MECHANIZM
 ##### Schemat
