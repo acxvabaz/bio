@@ -74,7 +74,7 @@ _Magnez_ → białko złożone
 ##### Elektory przemieszczane na błonie
 ##### Pompa protonowa
 ###### Wtłaczanie protonów (H+) przez przenośniki białkowe
-###### kanał syntazy ATP
+###### Syntaza ATP
 ####### jedyna droga powrotu do stromy
 ####### Powstaje [[ATP]]
 ####### ADP + reszta fosforanowa ---> jak przez kanał przepływają H+ tworzą ATP
