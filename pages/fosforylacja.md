@@ -19,8 +19,8 @@ Fosforylacja → aktywacja związku → większa energia → szybciej wejdzie w 
 fotosyntetyczna
 #### Cykliczna
 ##### Nie powstaje zredukowany ((607068fa-9c7e-402f-816b-c852d81cd14b))
-#####
+##### nie powstaje tlen bo nie ma fotolizy H2O
+##### Bierze udział tylko jeden foroukład
 #### Niecykliczna
-#####
 ## Defosforylacja
 ### fosfotaza ? powoduje wyłączenie enzymu
