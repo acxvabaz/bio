@@ -72,10 +72,10 @@ _Magnez_ → białko złożone
 ###### Wtłaczanie protonów (H+) przez przenośniki białkowe
 ###### kanał syntazy ATP
 ####### jedyna droga powrotu do stromy
-#######
 ####### Powstaje [[ATP]]
 ##### **Elektrony wybite z PS I redukują** ((607068fa-9c7e-402f-816b-c852d81cd14b))  i powstaje ^^NADPH^^
 ###### patrz: [[Nukleotydy Nikotynoamidowe]]
+##### [[Fosforylacja]] ((60742459-19ed-4efa-b9a3-c0b437a3eb9b)) - nie cykliczna
 ### Faza ciemna
 #### Światło **nie jest** potrzebne
 #### zachodzi w ((60754180-0359-4d8e-b69b-7d6ab0718964))
