@@ -88,7 +88,7 @@ _Magnez_ → białko złożone
 ####### jedyna droga powrotu do stromy przez kanał syntazy ATP
 ####### energia przepływu H+ używana do obrotu grzybka co pozwala enzymowi na przyjęcie struktury który pozwala dołączyć reszte fosforanową do ADP i **Powstaje ATP**
 ####### ADP + reszta fosforanowa ---> jak przez kanał przepływają H+ tworzą ATP
-####### [[Fosforylacja]]
+####### [[Fosforylacja]] - przepływ H+ przez kanał syntazy atp
 ######## ((60742459-19ed-4efa-b9a3-c0b437a3eb9b)) - ^^nie cykliczna^^
 ######### powstaje zredukowane ((607068fa-9c7e-402f-816b-c852d81cd14b))
 ######### Fotoliza H2O
