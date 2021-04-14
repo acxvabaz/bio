@@ -51,6 +51,7 @@ Bakteryjne (70s)
 #### Chlorofil
 _Magnez_ → białko złożone
 ##### **a**
+##### ![](https://media.discordapp.net/attachments/738092871021756817/831773821064314910/unknown.png?width=720&height=437)
 ##### **b**
 #### Karoten
 #### Ksantofil
@@ -67,7 +68,6 @@ _Magnez_ → białko złożone
 #### Powstaje też [[ATP]]
 #### MECHANIZM
 ##### ((607687cf-2a3d-438c-bd23-d56f01a6fbfa)) kumulują energię co pozwala na wybicie elektronów
-###### ![](https://media.discordapp.net/attachments/738092871021756817/831773821064314910/unknown.png?width=720&height=437)
 ##### elektrony są uzupełniane z **fotolizy wody** → do ((607688da-2a3f-4da5-868b-14cf57211df9))
 ###### ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Faza_jasna_fotosyntezy.svg/1200px-Faza_jasna_fotosyntezy.svg.png){:height 452, :width 538}
 ##### Elektory przemieszczane na błonie
