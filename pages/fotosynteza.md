@@ -83,6 +83,8 @@ _Magnez_ → białko złożone
 ###### Fotoliza H2O
 ##### ((60742459-19ed-4efa-b9a3-c0b437a3eb9b)) - cykliczna
 ###### może przeskoczyć kiedy nie ma wody do fotolizy
+###### Nie powstaje ((6076ac93-d429-41c4-b95a-9531c1f5e877))
+###### Powstaje [[ATP]]
 ### Faza ciemna
 #### Światło **nie jest** potrzebne
 #### zachodzi w ((60754180-0359-4d8e-b69b-7d6ab0718964))

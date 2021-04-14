@@ -14,6 +14,9 @@ title: Nukleotydy Nikotynoamidowe
 :END:
 - Fosforan dinukleotydu nikotynoamidoadeninowego
 ### NADPH+
+:PROPERTIES:
+:id: 6076ac93-d429-41c4-b95a-9531c1f5e877
+:END:
 #### H+
 - W **fotosyntezie**
 Pozwalają na przeprowadzanie reakcji utleniania i rdukcji
