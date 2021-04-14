@@ -86,7 +86,7 @@ _Magnez_ → białko złożone
 ####### jedyna droga powrotu do stromy
 ####### Powstaje ATP
 ####### ADP + reszta fosforanowa ---> jak przez kanał przepływają H+ tworzą ATP
-####### [[Fosforylacja]] ((60742459-19ed-4efa-b9a3-c0b437a3eb9b)) - nie cykliczna
+####### [[Fosforylacja]] ((60742459-19ed-4efa-b9a3-c0b437a3eb9b)) - ^^nie cykliczna^^
 ######## powstaje zredukowane ((607068fa-9c7e-402f-816b-c852d81cd14b))
 ######## Fotoliza H2O
 ####### ((60742459-19ed-4efa-b9a3-c0b437a3eb9b)) - cykliczna
