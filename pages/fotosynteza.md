@@ -37,4 +37,5 @@ _Magnez_ → białko złożone
 #### Karoten
 #### Ksantofil
 ## [[draws/2021-04-14-07-54-29.excalidraw]]
-## ((607540c5-e014-4257-84f6-9f4fa9cb294c)) najlepiej pochłaniają światło koloru **niebieskiego i czerwonego**
+## ((607540c5-e014-4257-84f6-9f4fa9cb294c)) najlepiej pochłaniają światło koloru **niebieskiego i czerwonego**((607540c5-e014-4257-84f6-9f4fa9cb294c)) najlepiej pochłaniają światło koloru **niebieskiego i czerwonego**((607540c5-e014-4257-84f6-9f4fa9cb294c)) najlepiej pochłaniają światło koloru **niebieskiego i czerwonego**
+##
