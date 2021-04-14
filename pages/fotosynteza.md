@@ -74,6 +74,7 @@ _Magnez_ → białko złożone
 ####### jedyna droga powrotu do stromy
 #######
 ##### **Elektrony wybite z PS I redukują** ((607068fa-9c7e-402f-816b-c852d81cd14b))  i powstaje ^^NADPH^^
+##### Powstaje [[ATP]]
 ### Faza ciemna
 #### Światło **nie jest** potrzebne
 #### zachodzi w ((60754180-0359-4d8e-b69b-7d6ab0718964))
