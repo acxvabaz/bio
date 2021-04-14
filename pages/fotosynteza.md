@@ -38,4 +38,7 @@ _Magnez_ → białko złożone
 #### Ksantofil
 ## [[draws/2021-04-14-07-54-29.excalidraw]]
 ## Etapy fotosyntezy
+### ![](https://media.discordapp.net/attachments/738092871021756817/831770541471039488/unknown.png?width=720&height=594)
 ### Faza jasna
+### Faza ciemna
+####
