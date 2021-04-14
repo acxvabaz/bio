@@ -77,9 +77,9 @@ _Magnez_ → białko złożone
 ###### Elektory przemieszczają się na błonie
 ##### Protony
 ###### Wtłaczanie protonów (H+) przez przenośniki białkowe do środka tylakoidu
-###### Syntaza ATP
+###### Syntaza [[ATP]]
 ####### jedyna droga powrotu do stromy
-####### Powstaje [[ATP]]
+####### Powstaje ATP
 ####### ADP + reszta fosforanowa ---> jak przez kanał przepływają H+ tworzą ATP
 ##### **Elektrony wybite z PS I redukują** ((607068fa-9c7e-402f-816b-c852d81cd14b))  i powstaje  ((6076ac93-d429-41c4-b95a-9531c1f5e877))
 ###### patrz: [[Nukleotydy Nikotynoamidowe]]
