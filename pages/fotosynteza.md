@@ -82,7 +82,7 @@ _Magnez_ → białko złożone
 a później uzupełniając elektrony wybitez PS I
 ###### **Elektrony wybite z PS I redukują** ((607068fa-9c7e-402f-816b-c852d81cd14b))  i powstaje  ((6076ac93-d429-41c4-b95a-9531c1f5e877))
 ####### patrz: [[Nukleotydy Nikotynoamidowe]]
-##### {{youtube https://youtu.be/z74LNRGcMy0?t=78}}
+###### {{youtube https://youtu.be/z74LNRGcMy0?t=78}}
 ##### **Protony**
 ###### Wtłaczanie protonów (H+) przez przenośniki białkowe do środka tylakoidu
 ####### e- z Plastochinonu → transport z PS do cytochromu b6f → transport protonów do wnętrza tylakoidu
