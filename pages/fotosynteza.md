@@ -64,10 +64,9 @@ _Magnez_ → białko złożone
 #### Powstaje zredukowany ((607068fa-9c7e-402f-816b-c852d81cd14b)) ([[Nukleotydy Nikotynoamidowe]])
 ##### Przenosi elektrony i protony do następnej fazy
 #### Powstaje też [[ATP]]
-####
----
+#### MECHANIZM
 ##### ((607687cf-2a3d-438c-bd23-d56f01a6fbfa)) kumulują energię co pozwala na wybicie elektronów
-#####
+##### elektrony są uzupełniane z wody
 ### Faza ciemna
 #### Światło **nie jest** potrzebne
 #### zachodzi w ((60754180-0359-4d8e-b69b-7d6ab0718964))
