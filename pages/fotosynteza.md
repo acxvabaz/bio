@@ -74,7 +74,7 @@ _Magnez_ → białko złożone
 ###### ((607687cf-2a3d-438c-bd23-d56f01a6fbfa)) kumulują energię co pozwala na wybicie elektronów
 ###### elektrony są uzupełniane z **fotolizy wody** → do ((607688da-2a3f-4da5-868b-14cf57211df9))
 ####### Enzymy katalizujące fotlize wody, wymagają **MANGANU**
-###### Elektory przemieszczane na błonie
+###### Elektory przemieszczają się na błonie
 ##### Pompa protonowa
 ###### Wtłaczanie protonów (H+) przez przenośniki białkowe
 ###### Syntaza ATP
