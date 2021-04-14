@@ -14,6 +14,9 @@ $$6CO_2 + 6H_2O + ENE -> C_6H_{12}O_6 + 6O_2$$
 ### Budowa
 #### Tylakoidy
 ##### Gran
+:PROPERTIES:
+:id: 6075417a-5a50-4fd0-9fab-ecb2e5426572
+:END:
 Stosiki
 ##### Stromy
 łączy grany
@@ -41,7 +44,7 @@ _Magnez_ → białko złożone
 ### ![](https://media.discordapp.net/attachments/738092871021756817/831770541471039488/unknown.png?width=720&height=594)
 ### Faza jasna
 #### Zależna od światła
-#### W błonach tylako
+#### W błonach tylakoidów ((6075417a-5a50-4fd0-9fab-ecb2e5426572))
 ####
 ### Faza ciemna
 #### Światło **nie jest** potrzebne
