@@ -88,7 +88,6 @@ a później uzupełniając elektrony wybitez PS I
 ###### Wtłaczanie protonów (H+) przez przenośniki białkowe do środka tylakoidu
 ####### e- z Plastochinonu → transport z PS do cytochromu b6f → transport protonów do wnętrza tylakoidu
 ###### Syntaza [[ATP]]
-####### jedyna droga powrotu do stromy przez kanał syntazy ATP
 ####### energia przepływu H+ używana do obrotu grzybka co pozwala enzymowi na przyjęcie struktury który pozwala dołączyć reszte fosforanową do ADP i **Powstaje ATP**
 ####### [[Fosforylacja]] - przepływ H+ przez kanał syntazy atp
 ######## ((60742459-19ed-4efa-b9a3-c0b437a3eb9b)) - ^^nie cykliczna^^
