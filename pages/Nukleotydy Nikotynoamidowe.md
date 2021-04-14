@@ -6,7 +6,7 @@ title: Nukleotydy Nikotynoamidowe
 # Nukleotydy Nikotynoamidowe
 ## NAD+
 - Dinukleotyd nikotynoamidoadeninowy
-- NADH+ + H+
+## NADH+ + H+
 - w **oddychaniu**
 ## NADP+
 :PROPERTIES:
