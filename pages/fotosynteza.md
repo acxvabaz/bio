@@ -71,7 +71,7 @@ _Magnez_ → białko złożone
 ##### Powstaje też [[ATP]]
 #### MECHANIZM
 ##### Schemat
-###### ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Faza_jasna_fotosyntezy.svg/1200px-Faza_jasna_fotosyntezy.svg.png){:height 452, :width 538}
+###### ![](http://bio.edu.ee/models/models/theory/sv/fotos_t2.jpg)
 
  światło --> PS II --> elektrony --[Tu powstaje atp ... albo i nie]-> uzupełniają elektrony wybite z PS I ---> NADP+ + e- --->  NADPH+
 ##### **Elektrony**
