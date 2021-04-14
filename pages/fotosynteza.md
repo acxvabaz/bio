@@ -70,11 +70,12 @@ _Magnez_ → białko złożone
 - Przenosi elektrony i protony do następnej fazy
 ##### Powstaje też [[ATP]]
 #### MECHANIZM
-##### Schemat
+##### Schematy/multimedia
 ###### ![](https://eszkola.pl/img/galleries/thumb/home/Faza_jasna_fotosyntezy.jpg)
 
  światło --> PS II --> elektrony --[Tu powstaje atp ... albo i nie]-> uzupełniają elektrony wybite z PS I ---> NADP+ + e- --->  NADPH+
 ###### [[draws/2021-04-14-14-51-16.excalidraw]]
+####### /emb
 ##### **Elektrony**
 ###### ((607687cf-2a3d-438c-bd23-d56f01a6fbfa)) kumulują energię co pozwala na wybicie elektronów
 ####### ich energia jest używana do transportu jonów $H^+$ do wnętrza tylakoidu
