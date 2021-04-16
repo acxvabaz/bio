@@ -127,11 +127,11 @@ a później uzupełniając elektrony wybitez PS I
 ###### w ciepłym klimacie
 ###### ![](https://media.discordapp.net/attachments/738092871021756817/832523130068008990/unknown.png?width=720&height=388)
 ###### Rośliny przeprowadzającą tą fotosynteze z reguły słaby **dostęp do wody i CO2**
+###### ![](https://media.discordapp.net/attachments/738092871021756817/832525338147291136/unknown.png)
 ####### ^^PEP^^ fosfoendolopirogronian
 ######## + $CO_2$ ---> ^^szczawiooctan (4węglowy)^^
 ####### szczawiooctan ---> **jabłczan**
 ######## z użyciem ((6076ac93-d429-41c4-b95a-9531c1f5e877))
 ####### Jabłczan transportowany do komórek pochwy okołowiązkowej
 ####### Jabłczany **oddają** $CO_2$ ---> pirogronian -->+ ATP-> fosfoendolopirogronian
-###### ![](https://media.discordapp.net/attachments/738092871021756817/832525338147291136/unknown.png)
 ###### **PEP** jest jeszcze lepszym asymilatorem CO2 niż ((6079413e-172e-4d36-ad0c-2870993ed176))
