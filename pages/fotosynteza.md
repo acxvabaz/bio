@@ -104,5 +104,6 @@ a później uzupełniając elektrony wybitez PS I
 
 - dołącza $CO_2$ do rybulozo 1,5-difoforan (**RuBP**)
 ###### Powstaje kwas 3-fofoglicerynowy **PGA**
+####### fotosynteza typu **C3** - najbardziej popularna
 ##### Faza redukcji
 ##### Faza regeneracji
