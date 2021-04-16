@@ -114,4 +114,4 @@ a później uzupełniając elektrony wybitez PS I
 ###### **PGAL** ---> pierwotny produkt fotosyntezy
 ###### 1 na 6 cząsteczek używana do produkcji gluokzy
 ##### Faza regeneracji
-###### 5 cząsteczek używana do produkcji
+###### 5 cząsteczek używana do produkcji **RuBP**
