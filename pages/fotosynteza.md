@@ -100,5 +100,6 @@ a później uzupełniając elektrony wybitez PS I
 #### Mechanizm
 ##### {{youtube https://www.youtube.com/watch?v=dydm4Vrf4XA}}
 ##### Faza karboksylacji
+###### Rybulozobisfosforan
 ##### Faza redukcji
 ##### Faza regeneracji
