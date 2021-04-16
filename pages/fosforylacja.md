@@ -17,12 +17,12 @@ Fosforylacja → aktywacja związku → większa energia → szybciej wejdzie w 
 :END:
 #### fosforylacja w fazie fotosyntezy zależnej od światła, wytwarzanie, aby mogła zajść fotosynteza
 #### Cykliczna
-##### **Nie powstaje** zredukowany ((607068fa-9c7e-402f-816b-c852d81cd14b))
+##### **Nie powstaje** ((6076ac93-d429-41c4-b95a-9531c1f5e877))
 ##### **nie powstaje** tlen bo nie ma fotolizy H2O
 ##### Bierze udział tylko jeden fotoukład
 #### Niecykliczna
 ##### Zachodzi fotoliza H2O
-##### Powstaje zredukowane ((607068fa-9c7e-402f-816b-c852d81cd14b))
+##### Powstaje  ((6076ac93-d429-41c4-b95a-9531c1f5e877))
 ## Defosforylacja
 ### fosfotaza ? powoduje wyłączenie enzymu
 ## Jest przeprowadzana przez [[Syntaza ATP]]
