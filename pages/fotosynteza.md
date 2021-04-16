@@ -121,4 +121,7 @@ a później uzupełniając elektrony wybitez PS I
 ##### fotosynteza typu **C4**
 ###### bardzo wydajna
 ###### w ciepłym klimacie
+###### ![](https://media.discordapp.net/attachments/738092871021756817/832523130068008990/unknown.png?width=720&height=388)
+
+Komórki
 ######
