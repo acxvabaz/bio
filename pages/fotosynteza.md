@@ -112,5 +112,6 @@ a później uzupełniając elektrony wybitez PS I
 - dostarcza elektronów do redukcji
 ####### ATP
 ###### **PGAL** ---> pierwotny produkt fotosyntezy
+###### 1 na 6 cząsteczek używana do produkcji gluokzy
 ##### Faza regeneracji
-######
+###### 5 cząsteczek używana do produkcji
