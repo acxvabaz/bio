@@ -101,8 +101,6 @@ a później uzupełniając elektrony wybitez PS I
 ##### ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cykl_Calvina.svg/965px-Cykl_Calvina.svg.png){:height 613, :width 585}
 #### Mechanizm
 ##### {{youtube https://www.youtube.com/watch?v=dydm4Vrf4XA}}
-##### fotosynteza typu **C3**
-###### najbardziej popularna
 ##### Faza karboksylacji
 ###### karboksylaza rybulozodifosforanowa (^^RuBisCO^^)
 
@@ -116,8 +114,10 @@ a później uzupełniając elektrony wybitez PS I
 ####### ATP
 ###### **PGAL** ---> pierwotny produkt fotosyntezy
 ###### 1 na 6 cząsteczek używana do produkcji gluokzy
-###### Faza regeneracji
-####### 5 cząsteczek używana do produkcji **RuBP** rybulozo-1,5-difosforan
+##### Faza regeneracji
+###### 5 cząsteczek używana do produkcji **RuBP** rybulozo-1,5-difosforan
+##### fotosynteza typu **C3**
+###### najbardziej popularna
 ##### fotosynteza typu **C4**
 ###### bardzo wydajna
 ###### w ciepłym klimacie
