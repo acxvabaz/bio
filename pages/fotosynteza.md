@@ -121,6 +121,7 @@ a później uzupełniając elektrony wybitez PS I
 ###### 5 cząsteczek używana do produkcji **RuBP** rybulozo-1,5-difosforan
 ##### fotosynteza typu **C3**
 ###### najbardziej popularna
+###### Tak jak w fazach normalnie leci
 ##### fotosynteza typu **C4**
 ###### bardzo wydajna
 ###### w ciepłym klimacie
