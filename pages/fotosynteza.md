@@ -96,7 +96,7 @@ a później uzupełniając elektrony wybitez PS I
 ##### zachodzi w ((60754180-0359-4d8e-b69b-7d6ab0718964))
 ##### Potrzebne produkty ((607684a4-502c-4a78-9161-3eeabef87cfd)) Dwutlenek węgla
 ##### poswstaje Cukier i skrobianie jes
-##### ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cykl_Calvina.svg/965px-Cykl_Calvina.svg.png){:height 312, :width 563}
+##### ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cykl_Calvina.svg/965px-Cykl_Calvina.svg.png){:height 613, :width 585}
 #### Mechanizm
 ##### {{youtube https://www.youtube.com/watch?v=dydm4Vrf4XA}}
 ##### Faza karboksylacji
