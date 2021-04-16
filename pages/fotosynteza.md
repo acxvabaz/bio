@@ -102,7 +102,7 @@ a później uzupełniając elektrony wybitez PS I
 ##### Faza karboksylacji
 ###### karboksylaza rybulozodifosforanowa (^^RuBisCO^^)
 
-- dołącza $CO_2$ do rybulozo 1,5 - difoforanu (**RuBP**)
-###### Powstaje kwas fofoglicerynowy **PGA**
+- dołącza $CO_2$ do rybulozo 1,5-difoforanu (**RuBP**)
+###### Powstaje kwas 3-fofoglicerynowy **PGA**
 ##### Faza redukcji
 ##### Faza regeneracji
