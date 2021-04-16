@@ -108,6 +108,8 @@ a później uzupełniając elektrony wybitez PS I
 ####### fotosynteza typu **C3** - najbardziej popularna
 ##### Faza redukcji
 ###### Redukcja **PGA** do **PGAL** (Aldehyd 3-fosfoglicerynowy)
-Dzięki zredukowanym ((6076ac93-d429-41c4-b95a-9531c1f5e877)) + ATP
+####### ((6076ac93-d429-41c4-b95a-9531c1f5e877))
+- dostarcza elektronów do redukcji
+####### ATP
 ######
 ##### Faza regeneracji
