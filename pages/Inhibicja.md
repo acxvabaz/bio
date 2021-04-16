@@ -17,8 +17,7 @@ title: Inhibicja
 - [arykuł na wiki](https://pl.m.wikipedia.org/wiki/Inhibicja_niekompetycyjna) 
 - inhibitor dołącza się nie do centrum aktywnym → __właściwości allostaryczne__ → zmiana struktury
 cząsteczki tak że substrat się nie może dołączyć
-- nie da się odwrócić przez stężenie sub. tylko inne związki wiążące inhibitor/zwiększenie stężenia
-enzymu
+- nie da się odwrócić przez stężenie sub. tylko inne związki wiążące inhibitor/zwiększenie stężenia enzymu
 - mogą też się przytwierdzać do miejsca __allosterycznego__
 - (nie miejsce allosteryczne ale blokuje fizycznie dostęp do miesjca aktywnego) według wikipedi
 - **Nieodwracalna**
