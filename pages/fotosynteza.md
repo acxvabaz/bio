@@ -91,7 +91,7 @@ a później uzupełniając elektrony wybitez PS I
 ####### energia przepływu H+ używana do obrotu grzybka co pozwala enzymowi na przyjęcie struktury który pozwala dołączyć reszte fosforanową do ADP i **Powstaje ATP**
 ###### {{embed ((60742459-19ed-4efa-b9a3-c0b437a3eb9b)) }}
 ###### Siła asymilacyjna
-- Produkty jasnej fazy fotosynezy → NADPH+ + H+
+- Produkty jasnej fazy fotosynezy → NADPH+ i ATP
 ### Faza ciemna
 #### Podst. info
 ##### Światło **nie jest** potrzebne
