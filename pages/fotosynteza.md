@@ -102,6 +102,6 @@ a później uzupełniając elektrony wybitez PS I
 ##### Faza karboksylacji
 ###### karboksylaza rybulozodifosforanowa (**RuBisCO**)
 
-- dołącza $CO_2$ do
+- dołącza $CO_2$ do rybulozo 1,5 - difoforanu (**RuBP**)
 ##### Faza redukcji
 ##### Faza regeneracji
