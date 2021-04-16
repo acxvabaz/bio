@@ -107,5 +107,5 @@ a później uzupełniając elektrony wybitez PS I
 ###### Powstaje kwas 3-fofoglicerynowy **PGA** → trójwęglowy
 ####### fotosynteza typu **C3** - najbardziej popularna
 ##### Faza redukcji
-###### Redukcja **PGA** do **PGAL** (Aldehyd )
+###### Redukcja **PGA** do **PGAL** (Aldehyd 3-fosfoglicerynowy)
 ##### Faza regeneracji
