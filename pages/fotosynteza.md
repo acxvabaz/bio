@@ -126,4 +126,4 @@ a później uzupełniając elektrony wybitez PS I
 ###### **PEP** fosfoendolopirogronian + $CO_2$ ---> szczawiooctan (4węglowy)
 ###### szczawiooctan ---> jabłczan
 ####### z użyciem ((6076ac93-d429-41c4-b95a-9531c1f5e877))
-#######
+###### i dalej cykl kelvina
