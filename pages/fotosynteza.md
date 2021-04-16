@@ -127,7 +127,7 @@ a później uzupełniając elektrony wybitez PS I
 ###### w ciepłym klimacie
 ###### ![](https://media.discordapp.net/attachments/738092871021756817/832523130068008990/unknown.png?width=720&height=388)
 ###### Rośliny przeprowadzającą tą fotosynteze z reguły słaby **dostęp do wody i CO2**
-###### **PEP** fosfoendolopirogronian
+###### ^^PEP^^ fosfoendolopirogronian
 ####### + $CO_2$ ---> ^^szczawiooctan (4węglowy)^^
 ###### szczawiooctan ---> jabłczan
 ####### z użyciem ((6076ac93-d429-41c4-b95a-9531c1f5e877))
