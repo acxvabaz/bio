@@ -103,7 +103,9 @@ a później uzupełniając elektrony wybitez PS I
 ###### karboksylaza rybulozodifosforanowa (^^RuBisCO^^)
 
 - dołącza $CO_2$ do rybulozo 1,5-difoforan (**RuBP**)
-###### Powstaje kwas 3-fofoglicerynowy **PGA**
+- 5 węgli +
+###### Powstaje kwas 3-fofoglicerynowy **PGA** → trójwęglowy
 ####### fotosynteza typu **C3** - najbardziej popularna
 ##### Faza redukcji
+###### Redukcja **PGA** do **PGAL** (Aldehyd )
 ##### Faza regeneracji
