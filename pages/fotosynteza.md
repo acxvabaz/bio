@@ -111,5 +111,5 @@ a później uzupełniając elektrony wybitez PS I
 ####### ((6076ac93-d429-41c4-b95a-9531c1f5e877))
 - dostarcza elektronów do redukcji
 ####### ATP
-######
+###### **PGAL** ---> pierwotny produkt fotosyntezy
 ##### Faza regeneracji
