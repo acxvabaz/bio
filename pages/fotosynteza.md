@@ -102,7 +102,7 @@ a później uzupełniając elektrony wybitez PS I
 ##### Faza karboksylacji
 ###### karboksylaza rybulozodifosforanowa (^^RuBisCO^^)
 
-- dołącza $CO_2$ do rybulozo 1,5-difoforan (**RuBP**)
+- dołącza $CO_2$ do rybulozo-1,5-difoforan (**RuBP**)
 - 5 węgli +
 ###### Powstaje kwas 3-fofoglicerynowy **PGA** → trójwęglowy
 ####### fotosynteza typu **C3** - najbardziej popularna
@@ -114,4 +114,4 @@ a później uzupełniając elektrony wybitez PS I
 ###### **PGAL** ---> pierwotny produkt fotosyntezy
 ###### 1 na 6 cząsteczek używana do produkcji gluokzy
 ##### Faza regeneracji
-###### 5 cząsteczek używana do produkcji **RuBP**
+###### 5 cząsteczek używana do produkcji **RuBP** rybulozo-1,5-difosforan
