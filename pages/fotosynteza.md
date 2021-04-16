@@ -129,7 +129,7 @@ a później uzupełniając elektrony wybitez PS I
 ###### Rośliny przeprowadzającą tą fotosynteze z reguły słaby **dostęp do wody i CO2**
 ###### ^^PEP^^ fosfoendolopirogronian
 ####### + $CO_2$ ---> ^^szczawiooctan (4węglowy)^^
-###### szczawiooctan ---> jabłczan
+###### szczawiooctan ---> **jabłczan**
 ####### z użyciem ((6076ac93-d429-41c4-b95a-9531c1f5e877))
 ###### Jabłczan transportowany do komórek pochwy okołowiązkowej
 ###### Jabłczany oddają $CO_2$ ---> pirogronian -->+ ATP-> fosfoendolopirogronian
