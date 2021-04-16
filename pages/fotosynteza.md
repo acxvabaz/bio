@@ -101,8 +101,12 @@ a później uzupełniając elektrony wybitez PS I
 ##### ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cykl_Calvina.svg/965px-Cykl_Calvina.svg.png){:height 613, :width 585}
 #### Mechanizm
 ##### {{youtube https://www.youtube.com/watch?v=dydm4Vrf4XA}}
+##### fotosynteza typu **C3**
+###### najbardziej popularna
 ##### Faza karboksylacji
-###### fotosynteza typu **C3** - najbardziej popularna
+###### fotosynteza typu **C4**
+####### bardzo wydajna
+####### w ciepłym klimacie
 ###### karboksylaza rybulozodifosforanowa (^^RuBisCO^^)
 
 - dołącza $CO_2$ do rybulozo-1,5-difoforan (**RuBP**)
