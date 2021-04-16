@@ -113,3 +113,4 @@ a później uzupełniając elektrony wybitez PS I
 ####### ATP
 ###### **PGAL** ---> pierwotny produkt fotosyntezy
 ##### Faza regeneracji
+######
