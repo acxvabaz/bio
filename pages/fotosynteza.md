@@ -128,4 +128,4 @@ a później uzupełniając elektrony wybitez PS I
 ####### z użyciem ((6076ac93-d429-41c4-b95a-9531c1f5e877))
 ###### Jabłczan transportowany do komórek pochwy okołowiązkowej
 ###### Jabłczany oddają $CO_2$ ---> pirogronian -->+ ATP-> fosfoendolopirogronian
-######
+###### ![](https://media.discordapp.net/attachments/738092871021756817/832525338147291136/unknown.png)
