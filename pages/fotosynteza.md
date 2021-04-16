@@ -104,9 +104,6 @@ a później uzupełniając elektrony wybitez PS I
 ##### fotosynteza typu **C3**
 ###### najbardziej popularna
 ##### Faza karboksylacji
-###### fotosynteza typu **C4**
-####### bardzo wydajna
-####### w ciepłym klimacie
 ###### karboksylaza rybulozodifosforanowa (^^RuBisCO^^)
 
 - dołącza $CO_2$ do rybulozo-1,5-difoforan (**RuBP**)
@@ -121,3 +118,6 @@ a później uzupełniając elektrony wybitez PS I
 ###### 1 na 6 cząsteczek używana do produkcji gluokzy
 ##### Faza regeneracji
 ###### 5 cząsteczek używana do produkcji **RuBP** rybulozo-1,5-difosforan
+##### fotosynteza typu **C4**
+###### bardzo wydajna
+###### w ciepłym klimacie
