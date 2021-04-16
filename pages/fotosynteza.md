@@ -102,12 +102,12 @@ a później uzupełniając elektrony wybitez PS I
 #### Mechanizm
 ##### {{youtube https://www.youtube.com/watch?v=dydm4Vrf4XA}}
 ##### Faza karboksylacji
+###### fotosynteza typu **C3** - najbardziej popularna
 ###### karboksylaza rybulozodifosforanowa (^^RuBisCO^^)
 
 - dołącza $CO_2$ do rybulozo-1,5-difoforan (**RuBP**)
 - 5 węgli +
 ###### Powstaje kwas 3-fofoglicerynowy **PGA** → trójwęglowy
-####### fotosynteza typu **C3** - najbardziej popularna
 ##### Faza redukcji
 ###### Redukcja **PGA** do **PGAL** (Aldehyd 3-fosfoglicerynowy)
 ####### ((6076ac93-d429-41c4-b95a-9531c1f5e877))
