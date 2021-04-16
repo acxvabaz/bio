@@ -127,4 +127,4 @@ a później uzupełniając elektrony wybitez PS I
 ###### szczawiooctan ---> jabłczan
 ####### z użyciem ((6076ac93-d429-41c4-b95a-9531c1f5e877))
 ###### Jabłczan transportowany do komórek pochwy okołowiązkowej
-###### Jabłczany oddają $CO_2$ ---> pirogronian
+###### Jabłczany oddają $CO_2$ ---> pirogronian --+ ATP-> fosfoen
