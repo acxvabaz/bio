@@ -71,7 +71,7 @@ _Magnez_ → białko złożone
 ##### Powstaje też [[ATP]]
 #### MECHANIZM
 ##### [[draws/2021-04-14-14-51-16.excalidraw]]
-##### **ac8ac8ac8Elektrony**
+##### **Elektrony**
 ###### 
 > PS II ---> Plastochinion ---> Cytochrom b6f ---> Plastocyjanina ---> PS I ---> Ferredoksyna ---> Reduktaza NADP+
 ###### ((607687cf-2a3d-438c-bd23-d56f01a6fbfa)) kumulują energię co pozwala na wybicie elektronów
