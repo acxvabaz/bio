@@ -164,8 +164,8 @@ Crassulacean Acid Metabolism
 ## Czynniki warunkujące fotosynteze
 ### Światło
 #### rośnie aż do punktu świetlnego
-#### Punkt świetlny
-##### natężenie światła które powoduje fotooksydacja chlorofil
+##### Punkt świetlny
+###### natężenie światła które powoduje fotooksydacja chlorofil
 #### Stymuluje powstawanie ((607fb7ba-f30f-44bd-9098-4c1d42a7c16e))
 ##### bez dostępu światła będą powstawać inne plastydy
 ##### Pobudza powstawanie chlorofilu
