@@ -151,4 +151,6 @@ a później uzupełniając elektrony wybitez PS I
 ##### fotosynteza typu **CAM**
 ###### gruboszowate
 Crassulacean Acid Metabolism
-###### zamykają aparaty szparkowe w dzień
+###### zamykają aparaty szparkowe w dzień, otwarte tylko nocą
+####### przyswajanie dwutlenku węgla tylko nocą
+######
