@@ -76,6 +76,9 @@ _Magnez_ → białko złożone
 ##### [[draws/2021-04-14-14-51-16.excalidraw]]
 ##### **Elektrony**
 ###### 
+:PROPERTIES:
+:id: 607fb7ba-783f-432c-bbdf-4b45626b0260
+:END:
 > PS II ---> Plastochinion ---> Cytochrom b6f ---> Plastocyjanina ---> PS I ---> Ferredoksyna ---> Reduktaza NADP+
 ###### ((607687cf-2a3d-438c-bd23-d56f01a6fbfa)) kumulują energię co pozwala na wybicie elektronów
 ####### ich energia jest używana do transportu jonów $H^+$ do wnętrza tylakoidu
@@ -185,4 +188,8 @@ Crassulacean Acid Metabolism
 ### Woda
 #### bo fotoliza wody
 #### Sole mineralne
-#####
+##### Mg - chlorofil
+##### K - hydroliza wody
+##### Mn - hydroliza wody
+##### Zn - przekazywanie elektronów
+##### Fe - ((607fb7ba-783f-432c-bbdf-4b45626b0260))
