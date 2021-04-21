@@ -177,4 +177,5 @@ Crassulacean Acid Metabolism
 ###### przemieszczanie chloroplastów
 ###### Heliotropizm
 ###### [[Fotooddychanie]]
+####### (duza temperatura → transpiracja → zamykanie aparatów szparkowych → mało $CO_2$)
 #####
