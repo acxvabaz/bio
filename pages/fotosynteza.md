@@ -170,4 +170,6 @@ Crassulacean Acid Metabolism
 ##### bez dostępu światła będą powstawać inne plastydy
 ##### Pobudza powstawanie chlorofilu
 #### Najlepiej wykorzystywane ^^niebieskie i czerwone^^
-####
+#### Fotoinhibicja
+##### Hamowanie fotosynteza przez nadmiar światła
+#####
