@@ -161,4 +161,5 @@ Crassulacean Acid Metabolism
 ## Czynniki warunkujące fotosynteze
 ### Światło
 #### rośnie aż do punktu świetlnego
-####
+#### Punkt świetlny
+##### natężenie światła które powoduje fotooksydacja chlorofil
