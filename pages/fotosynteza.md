@@ -10,7 +10,7 @@ $$6CO_2 + 6H_2O + ENE -> C_6H_{12}O_6 + 6O_2$$
 ### Fotosynteza Beztlenowa
 - Bez tlenu w produktach
 #### Wykorzystują $H_2S$ zamiast wody ponieważ **nie oddychają tlenowo** tlen może im zaszkodzić. zamiast tego uwalnia się siarka
-###
+### Zachodzi w [[Chloroplasty]]
 ## Etapy fotosyntezy
 ### Schemat/media
 #### ![](https://media.discordapp.net/attachments/738092871021756817/831770541471039488/unknown.png?width=720&height=594)
@@ -122,7 +122,7 @@ Crassulacean Acid Metabolism
 #### rośnie aż do punktu świetlnego
 ##### Punkt świetlny
 ###### natężenie światła które powoduje fotooksydacja chlorofil
-#### Stymuluje powstawanie ((607fb7ba-f30f-44bd-9098-4c1d42a7c16e))
+#### Stymuluje powstawanie [[Chloroplasty]]
 ##### bez dostępu światła będą powstawać inne plastydy
 ##### Pobudza powstawanie chlorofilu
 #### Najlepiej wykorzystywane ^^niebieskie i czerwone^^
