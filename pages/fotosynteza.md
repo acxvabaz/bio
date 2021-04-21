@@ -154,4 +154,6 @@ Crassulacean Acid Metabolism
 ####### zamykają aparaty szparkowe w dzień, otwarte tylko nocą
 ######## przyswajanie dwutlenku węgla tylko nocą
 ####### Obra procesy (wiązanie $CO_2$ i cykl calvina) zachodzą we wszystkich komórkach
-####### po wytworzeniu jabłczanu (w nocy) przetrzymywany w wakuola
+####### Modyfikacja C4
+######## po wytworzeniu jabłczanu (w nocy) przetrzymywany w wakuola
+######## Wykorzystywany dopiero w dzień kiedy jest siła asymilacyjna
