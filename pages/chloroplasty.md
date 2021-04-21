@@ -25,6 +25,9 @@ Stosiki
 łączy grany
 #### ^^Na błonach tylakoidów zachodzi fotosynteza^^
 ### Stroma
+:PROPERTIES:
+:id: 608014d3-5ef2-4fb6-8f97-90b203021df5
+:END:
 (matrix) znajduje się tu koliste DNA
 ### Rybosomy
 Bakteryjne (70s)

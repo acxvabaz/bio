@@ -33,7 +33,7 @@ $$6CO_2 + 6H_2O + ENE -> C_6H_{12}O_6 + 6O_2$$
 :id: 607fb7ba-783f-432c-bbdf-4b45626b0260
 :END:
 > PS II ---> Plastochinion ---> Cytochrom b6f ---> Plastocyjanina ---> PS I ---> Ferredoksyna ---> Reduktaza NADP+
-###### ((607687cf-2a3d-438c-bd23-d56f01a6fbfa)) kumulują energię co pozwala na wybicie elektronów
+###### Fotoystemy kumulują energię co pozwala na wybicie elektronów
 ####### ich energia jest używana do transportu jonów $H^+$ do wnętrza tylakoidu
 ###### {{youtube https://youtu.be/WhCczIqADuI?t=527}}
 ###### elektrony są uzupełniane z **fotolizy wody** → do ((608014d3-1f2a-4b91-bc72-ae968636cb64))
@@ -54,7 +54,7 @@ a później uzupełniając elektrony wybitez PS I
 ### Faza ciemna
 #### Podst. info
 ##### Światło **nie jest** potrzebne
-##### zachodzi w ((60754180-0359-4d8e-b69b-7d6ab0718964))
+##### zachodzi w ((608014d3-5ef2-4fb6-8f97-90b203021df5)) (?)
 ##### Potrzebne produkty ((607684a4-502c-4a78-9161-3eeabef87cfd)) Dwutlenek węgla
 ##### poswstaje Cukier i skrobianie jes
 ##### ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cykl_Calvina.svg/965px-Cykl_Calvina.svg.png){:height 613, :width 585}
