@@ -20,7 +20,7 @@ $$6CO_2 + 6H_2O + ENE -> C_6H_{12}O_6 + 6O_2$$
 :END:
 #### Podstawowe info
 ##### Zależna od światła
-##### W błonach tylakoidów ((6075417a-5a50-4fd0-9fab-ecb2e5426572))
+##### W błonach tylakoidów
 ##### Powstaje zredukowany ((607068fa-9c7e-402f-816b-c852d81cd14b)) ([[Nukleotydy Nikotynoamidowe]])
 
 - Przenosi elektrony i protony do następnej fazy
