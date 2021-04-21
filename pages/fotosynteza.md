@@ -128,6 +128,9 @@ a później uzupełniając elektrony wybitez PS I
 ###### Obrazki
 ####### ![](https://media.discordapp.net/attachments/738092871021756817/832523130068008990/unknown.png?width=720&height=388)
 ####### ![](https://media.discordapp.net/attachments/738092871021756817/832525338147291136/unknown.png)
+:PROPERTIES:
+:id: 607fb7ba-c43b-4220-b6c5-649416ff3dbd
+:END:
 ###### Mechanizm
 ####### ^^PEP^^ fosfoendolopirogronian
 ######## + $CO_2$ ---> ^^szczawiooctan (4węglowy)^^
