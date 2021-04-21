@@ -160,4 +160,5 @@ Crassulacean Acid Metabolism
 ####### Nie jest tak wydajna jak
 ## Czynniki warunkujące fotosynteze
 ### Światło
+#### rośnie aż do punktu świetlnego
 ####
