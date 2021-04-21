@@ -5,6 +5,9 @@ title: Chloroplasty
 ## **Chloroplasty**
 ## Budowa
 ### Tylakoidy
+:PROPERTIES:
+:id: 607fe51e-f348-4032-856f-77434c7cba43
+:END:
 #### Gran
 :PROPERTIES:
 :END:
