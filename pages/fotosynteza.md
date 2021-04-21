@@ -110,7 +110,7 @@ a później uzupełniając elektrony wybitez PS I
 - dołącza $CO_2$ do rybulozo-1,5-difoforan (**RuBP**)
 - 5 węgli +
 ###### Powstaje kwas 3-fofoglicerynowy **PGA** → trójwęglowy
-###### Ale jak jest dużo tlenu to
+###### Ale jak jest dużo tlenu to będzie go wiązać [[Fotooddychanie]]
 ##### Faza redukcji
 ###### Redukcja **PGA** do **PGAL** (Aldehyd 3-fosfoglicerynowy)
 ####### ((6076ac93-d429-41c4-b95a-9531c1f5e877))
