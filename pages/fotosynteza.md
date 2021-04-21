@@ -158,3 +158,6 @@ Crassulacean Acid Metabolism
 ######## po wytworzeniu jabłczanu (w nocy) przetrzymywany w wakuola
 ######## Wykorzystywany dopiero w dzień kiedy jest siła asymilacyjna
 ####### Nie jest tak wydajna jak
+## Czynniki warunkujące fotosynteze
+### Światło
+####
