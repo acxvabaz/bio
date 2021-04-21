@@ -173,4 +173,8 @@ Crassulacean Acid Metabolism
 #### Fotoinhibicja
 ##### Hamowanie fotosynteza przez nadmiar światła
 ##### uszkodzenie fotosystemów
+##### Strategie obronne
+###### przemieszczanie chloroplastów
+###### Heliotropizm
+###### [[Fotooddychanie]]
 #####
