@@ -184,4 +184,5 @@ Crassulacean Acid Metabolism
 #### 30 stopni C z reguły najlepsza
 ### Woda
 #### bo fotoliza wody
-####
+#### Sole mineralne
+#####
