@@ -7,7 +7,7 @@ title: Enzymy
 
 Potrzebne przy wielu reakcjach chemicznych
 
-- Białkowe katalizatoy
+- [[Białka]] katalizatoy
 - **Obiniżają energię aktywacji**
 - Cząsteczki wieloktotnego użycia
 - Wykazują wysoką specyficzność substratową
