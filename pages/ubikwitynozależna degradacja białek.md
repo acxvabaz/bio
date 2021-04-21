@@ -13,3 +13,5 @@ title: Ubikwitynozależna degradacja białek
 :id: 607425cd-11da-427e-a2d2-43ce348e690e
 :END:
 ### degraduje białka oznaczone przez ((607425b9-a5de-47cb-b373-39ca1155aade))
+## [[Białka]]
+##
