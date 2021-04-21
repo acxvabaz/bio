@@ -172,4 +172,5 @@ Crassulacean Acid Metabolism
 #### Najlepiej wykorzystywane ^^niebieskie i czerwone^^
 #### Fotoinhibicja
 ##### Hamowanie fotosynteza przez nadmiar światła
+##### uszkodzenie fotosystemów
 #####
