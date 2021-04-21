@@ -163,3 +163,4 @@ Crassulacean Acid Metabolism
 #### rośnie aż do punktu świetlnego
 #### Punkt świetlny
 ##### natężenie światła które powoduje fotooksydacja chlorofil
+#####
