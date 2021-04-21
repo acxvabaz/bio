@@ -178,4 +178,5 @@ Crassulacean Acid Metabolism
 ###### Heliotropizm
 ###### [[Fotooddychanie]]
 ####### (duza temperatura → transpiracja → zamykanie aparatów szparkowych → mało $CO_2$)
-###
+### $CO_2$
+#### Rośnie do +/- 1% dwutlenku węgla w atmosferze
