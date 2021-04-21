@@ -148,4 +148,5 @@ a później uzupełniając elektrony wybitez PS I
 ######## Jabłczany **oddają** $CO_2$ ---> pirogronian -->+ ATP-> fosfoendolopirogronian
 ###### Rośliny przeprowadzającą tą fotosynteze z reguły słaby **dostęp do wody i CO2**
 ###### **PEP** jest jeszcze lepszym asymilatorem CO2 niż ((6079413e-172e-4d36-ad0c-2870993ed176))
-###### fotosynteza typu
+##### fotosynteza typu **CAM**
+###### gruboszowate
