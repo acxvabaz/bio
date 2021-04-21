@@ -18,8 +18,7 @@ Stosiki
 ###### PS II 
 - skład barw. char. dla roślin wyższych
 #### Stromy
-:PROPERTIES:
-:END:
+
 łączy grany
 #### ^^Na błonach tylakoidów zachodzi fotosynteza^^
 ### Stroma
