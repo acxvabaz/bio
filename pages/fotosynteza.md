@@ -153,4 +153,4 @@ a później uzupełniając elektrony wybitez PS I
 Crassulacean Acid Metabolism
 ####### zamykają aparaty szparkowe w dzień, otwarte tylko nocą
 ######## przyswajanie dwutlenku węgla tylko nocą
-#######
+####### Obra procesy (wiązanie $CO_2$ i cykl calvina) zachodzą we wszystkich komórkach
