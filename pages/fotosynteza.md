@@ -194,3 +194,6 @@ Crassulacean Acid Metabolism
 ##### Zn - przekazywanie elektronów
 ##### Fe - ferredoksyna
 ##### Cu - też coś tam z przekazywaniem elektronów
+### Prawo Liebiga
+- Niedobór tylko jednego pierwiastka może zaburzyć proces fotosyntezy
+##
