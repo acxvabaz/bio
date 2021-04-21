@@ -149,4 +149,5 @@ Crassulacean Acid Metabolism
 ##### Cu - też coś tam z przekazywaniem elektronów
 ### Prawo Liebiga
 - Niedobór tylko jednego pierwiastka może zaburzyć proces fotosyntezy
-##
+## Fosfotriozy przy przekształceniu do sacharozy powstają reszty fosforanowe wykorzystywane do syntezy ATP
+![](https://media.discordapp.net/attachments/738092871021756817/834352452777017344/unknown.png?width=720&height=461)
