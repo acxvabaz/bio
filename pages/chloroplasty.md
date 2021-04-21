@@ -16,6 +16,9 @@ Stosiki
 ###### PS I 
 - bardziej pierwotny
 ###### PS II 
+:PROPERTIES:
+:id: 608014d3-1f2a-4b91-bc72-ae968636cb64
+:END:
 - skład barw. char. dla roślin wyższych
 #### Stromy
 

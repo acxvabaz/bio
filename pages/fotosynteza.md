@@ -36,7 +36,7 @@ $$6CO_2 + 6H_2O + ENE -> C_6H_{12}O_6 + 6O_2$$
 ###### ((607687cf-2a3d-438c-bd23-d56f01a6fbfa)) kumulują energię co pozwala na wybicie elektronów
 ####### ich energia jest używana do transportu jonów $H^+$ do wnętrza tylakoidu
 ###### {{youtube https://youtu.be/WhCczIqADuI?t=527}}
-###### elektrony są uzupełniane z **fotolizy wody** → do
+###### elektrony są uzupełniane z **fotolizy wody** → do ((608014d3-1f2a-4b91-bc72-ae968636cb64))
 ####### Enzymy katalizujące fotlize wody, wymagają **MANGANU**
 ###### Elektrony przemieszczają się poprzez cytochrom b6f i plastocyjanine
 a później uzupełniając elektrony wybitez PS I
