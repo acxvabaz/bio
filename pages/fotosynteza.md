@@ -178,4 +178,4 @@ Crassulacean Acid Metabolism
 ###### Heliotropizm
 ###### [[Fotooddychanie]]
 ####### (duza temperatura → transpiracja → zamykanie aparatów szparkowych → mało $CO_2$)
-#####
+###
