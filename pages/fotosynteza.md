@@ -182,3 +182,6 @@ Crassulacean Acid Metabolism
 #### Rośnie do +/- 1% dwutlenku węgla w atmosferze
 ### Temperatura
 #### 30 stopni C z reguły najlepsza
+### Woda
+#### bo fotoliza wody
+####
