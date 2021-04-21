@@ -11,6 +11,9 @@ $$6CO_2 + 6H_2O + ENE -> C_6H_{12}O_6 + 6O_2$$
 - Bez tlenu w produktach
 #### Wykorzystują $H_2S$ zamiast wody ponieważ **nie oddychają tlenowo** tlen może im zaszkodzić. zamiast tego uwalnia się siarka
 ## **Chloroplasty**
+:PROPERTIES:
+:id: 607fb7ba-f30f-44bd-9098-4c1d42a7c16e
+:END:
 ### Budowa
 #### Tylakoidy
 ##### Gran
@@ -163,4 +166,5 @@ Crassulacean Acid Metabolism
 #### rośnie aż do punktu świetlnego
 #### Punkt świetlny
 ##### natężenie światła które powoduje fotooksydacja chlorofil
-#####
+#### Stymuluje powstawanie ((607fb7ba-f30f-44bd-9098-4c1d42a7c16e))
+##### bez dostępu światła będą powstawać inne plastydy
