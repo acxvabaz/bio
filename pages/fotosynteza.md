@@ -192,4 +192,5 @@ Crassulacean Acid Metabolism
 ##### K - hydroliza wody
 ##### Mn - hydroliza wody
 ##### Zn - przekazywanie elektronów
-##### Fe - ((607fb7ba-783f-432c-bbdf-4b45626b0260))
+##### Fe - ferredoksyna
+##### Cu - też coś tam z przekazywaniem elektronów
