@@ -79,6 +79,8 @@ a później uzupełniając elektrony wybitez PS I
 ###### 1 na 6 cząsteczek używana do produkcji gluokzy
 ##### Faza regeneracji
 ###### 5 cząsteczek używana do produkcji **RuBP** rybulozo-1,5-difosforan
+##### Fosfotriozy przy przekształceniu do sacharozy powstają reszty fosforanowe wykorzystywane do syntezy ATP
+![](https://media.discordapp.net/attachments/738092871021756817/834352452777017344/unknown.png?width=720&height=461)
 ##### fotosynteza typu **C3**
 :PROPERTIES:
 :id: 607fb7ba-95e3-4a7f-8a89-19f88a86ef76
@@ -149,5 +151,3 @@ Crassulacean Acid Metabolism
 ##### Cu - też coś tam z przekazywaniem elektronów
 ### Prawo Liebiga
 - Niedobór tylko jednego pierwiastka może zaburzyć proces fotosyntezy
-## Fosfotriozy przy przekształceniu do sacharozy powstają reszty fosforanowe wykorzystywane do syntezy ATP
-![](https://media.discordapp.net/attachments/738092871021756817/834352452777017344/unknown.png?width=720&height=461)
