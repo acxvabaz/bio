@@ -9,19 +9,13 @@ title: Chloroplasty
 :id: 607fe51e-f348-4032-856f-77434c7cba43
 :END:
 #### Gran
-:PROPERTIES:
-:END:
 Stosiki
 ##### Barwniki w błonach tworzą ^^fotosystemy^^
-:PROPERTIES:
-:END:
 - kumulują energie aby zebrana mogła wybić elektrony
 ###### ![](https://media.discordapp.net/attachments/738092871021756817/831773821064314910/unknown.png?width=720&height=437)
 ###### PS I 
 - bardziej pierwotny
 ###### PS II 
-:PROPERTIES:
-:END:
 - skład barw. char. dla roślin wyższych
 #### Stromy
 :PROPERTIES:
