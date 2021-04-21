@@ -181,4 +181,4 @@ Crassulacean Acid Metabolism
 ### $CO_2$
 #### Rośnie do +/- 1% dwutlenku węgla w atmosferze
 ### Temperatura
-####
+#### 30 stopni C z reguły najlepsza
