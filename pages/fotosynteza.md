@@ -121,6 +121,9 @@ a później uzupełniając elektrony wybitez PS I
 ##### Faza regeneracji
 ###### 5 cząsteczek używana do produkcji **RuBP** rybulozo-1,5-difosforan
 ##### fotosynteza typu **C3**
+:PROPERTIES:
+:id: 607fb7ba-95e3-4a7f-8a89-19f88a86ef76
+:END:
 ###### najbardziej popularna
 ###### Tak jak w fazach normalnie leci
 ##### fotosynteza typu **C4**
