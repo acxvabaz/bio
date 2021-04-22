@@ -10,5 +10,6 @@ Z udziałem energi świetlnej
 ### Chemoautotrofizm
 Z udziałem energii chemicznej
 #### [[Chemosynteza]]
+###
 ## **Heterotrofizm**
 Związki organiczne pobierane z otoczenia
