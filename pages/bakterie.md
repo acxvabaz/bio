@@ -2,11 +2,6 @@
 title: Bakterie
 ---
 
-## Rodzaje
-:PROPERTIES:
-:id: 6081439a-180b-402e-be45-d6c64bd8f25c
-:END:
-## Nitryfikacyhne
 ### $2NH_3 + O-2 -> 2HNO_2 + 2H_2O + ene$
 ## Siarkowe
 :PROPERTIES:
