@@ -2,7 +2,8 @@
 title: Bakterie
 ---
 
-### $2NH_3 + O-2 -> 2HNO_2 + 2H_2O + ene$
+### Nitryfikacyjne
+#### $2NH_3 + O-2 -> 2HNO_2 + 2H_2O + ene$
 ## Siarkowe
 :PROPERTIES:
 :id: 608143b9-fd4a-4e48-ad64-6b648ba1a59a
