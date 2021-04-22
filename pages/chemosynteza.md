@@ -4,6 +4,6 @@ title: Chemosynteza
 
 ## Info
 ### Przeprowadzana przez [[Bakterie]]
-### Właściwie tak jak fotosynteza - różnica to źródło energii
+### Właściwie tak jak fotosynteza - różnica to** źródło energii**
 #### ^^Energia z reakcji utleniania prostych związków nieorganicznych^^
 ####
