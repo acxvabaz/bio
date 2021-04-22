@@ -3,6 +3,9 @@ title: Bakterie
 ---
 
 ### Nitryfikacyjne
+:PROPERTIES:
+:id: 6081439a-da79-4493-abb8-130aa62aa1f9
+:END:
 #### $2NH_3 + O-2 -> 2HNO_2 + 2H_2O + ene$
 ## Siarkowe
 :PROPERTIES:
