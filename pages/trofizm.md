@@ -15,6 +15,6 @@ Z udziałem energii chemicznej
 ## **Heterotrofizm**
 Związki organiczne pobierane z otoczenia
 ### Ślimak wodny elysia
-#### zjada rośliny ale nie trawi chloroplastów tylko wbudowyduje w siebie (^^kleptoplastia^^) 
+#### zjada rośliny ale nie trawi chloroplastów tylko wbudowyduje w siebie (kleptoplastia) 
 chloroplasty przeprowadzają w nim fotosynteze przez co można uznać go za samożywnego
 ####
