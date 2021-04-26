@@ -8,3 +8,4 @@ title: Oddychanie
 #### węzeł mataboliczny
 → początek lub koniec wielu reakcji metabolicznych
 #### do przenoszenia grup acylowych - łańcuchów węglowych
+Acetylo → 2 węglowa
