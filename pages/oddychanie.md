@@ -24,6 +24,7 @@ Acetylo → 2 węglowa
 #### $C_6H_{12}O_6+ ATP + 2P + 2 NAD^+ → 2 CH3COCOOH + 2ATP + 2 NADH + H^+$
 #### ((608453d5-6abf-42ad-8ea0-25fa9c9b9ed4)) + P + NAD → **ATP + NADH**
 ##### ((608453d6-3aec-4535-b3ae-7b0efe24e0e6))
+##### bilans energetyczny **0** + **
 #### powstaje pirogronian
 ### Reakcja pomostowa
 #### dekarboksylacja
