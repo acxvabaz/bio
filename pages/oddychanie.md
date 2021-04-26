@@ -22,7 +22,7 @@ Acetylo → 2 węglowa
 ### Glikoliza
 #### w cytozolu
 #### 
-$$$$+ ATP + 2P + 2 NAD+ → 2 CH3COCOOH + 2ATP + 2 NADH + H+$$
+$$ C_6H_12O_6+ ATP + 2P + 2 NAD+ → 2 CH3COCOOH + 2ATP + 2 NADH + H+$$
 #### powstaje pirogronian
 ### Reakcja pomostowa
 #### dekarboksylacja
