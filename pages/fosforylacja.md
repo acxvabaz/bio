@@ -8,6 +8,9 @@ title: Fosforylacja
 Fosforylacja → aktywacja związku → większa energia → szybciej wejdzie w reakcje
 ### Enzym [[kinaza białkowa]] + [[ATP]] powoduje **włączenie enzymu**
 ### fosforylacja substratowa
+:PROPERTIES:
+:id: 608453d6-3aec-4535-b3ae-7b0efe24e0e6
+:END:
 #### w pierwszym etapie oddychania
 ### fosforylacja oksydacyjna
 #### Podczas oddychania w mitochonodriach, najwięcej ATP
