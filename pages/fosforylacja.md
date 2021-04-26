@@ -12,6 +12,7 @@ Fosforylacja → aktywacja związku → większa energia → szybciej wejdzie w 
 :id: 608453d6-3aec-4535-b3ae-7b0efe24e0e6
 :END:
 #### w pierwszym etapie oddychania
+#### ![](https://media.discordapp.net/attachments/738092871021756817/836192620924895242/unknown.png?width=705&height=249)
 ### fosforylacja oksydacyjna
 #### Podczas oddychania w mitochonodriach, najwięcej ATP
 ### fosforylacja fotosyntetyczna
