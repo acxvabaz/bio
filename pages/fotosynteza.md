@@ -75,10 +75,11 @@ a później uzupełniając elektrony wybitez PS I
 ####### ((6076ac93-d429-41c4-b95a-9531c1f5e877))
 - dostarcza elektronów do redukcji
 ####### ATP
-###### **PGAL** ---> pierwotny produkt fotosyntezy
+###### **PGAL** 
 :PROPERTIES:
 :id: 608453d5-6abf-42ad-8ea0-25fa9c9b9ed4
 :END:
+---> pierwotny produkt fotosyntezy
 ###### 1 na 6 cząsteczek używana do produkcji gluokzy
 ##### Faza regeneracji
 ###### 5 cząsteczek używana do produkcji **RuBP** rybulozo-1,5-difosforan
