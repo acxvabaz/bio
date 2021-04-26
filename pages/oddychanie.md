@@ -19,7 +19,7 @@ Acetylo → 2 węglowa
 ### Glikoliza
 #### w cytozolu
 ### Reakcja pomostowa
-####
+#### dekarboksylacja
 ## Oddychanie Beztlenowe
 :PROPERTIES:
 :heading: true
