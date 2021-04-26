@@ -18,7 +18,8 @@ Acetylo → 2 węglowa
 ### zachodzi na [[mitochondria]]
 ### Glikoliza
 #### w cytozolu
-####
+### Reakcja pomostowa
+###
 ## Oddychanie Beztlenowe
 :PROPERTIES:
 :heading: true
