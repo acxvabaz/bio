@@ -9,4 +9,5 @@ title: Oddychanie
 → początek lub koniec wielu reakcji metabolicznych
 #### do przenoszenia grup acylowych - łańcuchów węglowych
 Acetylo → 2 węglowa
+#### ![](https://media.discordapp.net/attachments/738092871021756817/836187282628280340/unknown.png?width=705&height=302)
 ####
