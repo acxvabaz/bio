@@ -5,6 +5,9 @@ title: Oddychanie
 ## Utlenianie
 ### utlenianie biol. różni się od spalania tym że zachodzi powoli i wieloetapowo, a energia nie zamieniana w ciepło tylko w [[ATP]]
 ## ^^Acetylo-koenzym A^^
+:PROPERTIES:
+:id: 608693e4-a1b6-454a-83ec-130e1f665f13
+:END:
 ### węzeł mataboliczny
 → początek lub koniec wielu reakcji metabolicznych
 ### do przenoszenia grup acylowych - łańcuchów węglowych
@@ -18,8 +21,11 @@ Acetylo → 2 węglowa
 ### zachodzi na [[mitochondria]]
 ### Glikoliza
 #### w cytozolu
+#### powstaje pirogronian
 ### Reakcja pomostowa
 #### dekarboksylacja
+#### przyłączenie 2 węglowej cząsteczki do koenzymu A → ((608693e4-a1b6-454a-83ec-130e1f665f13))
+####
 ## Oddychanie Beztlenowe
 :PROPERTIES:
 :heading: true
