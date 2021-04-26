@@ -20,6 +20,7 @@ Acetylo → 2 węglowa
 ### ![](http://cdn-sciaga.pullit.pl/media/catalog/cache/vH72uO4rE0APShW7B0JbsL38hHCAY8DrveAj8RWj%252BuLLOSl9LzIrPurw46vaTFYM/glowne_etapy_oddychania_tlenowego_wg_wisniewski_1994_zmienione.png)
 ### zachodzi na [[mitochondria]]
 ### Glikoliza
+####
 #### w cytozolu
 #### $C_6H_{12}O_6+ ATP + 2P + 2 NAD^+ → 2 CH3COCOOH + 2ATP + 2 NADH + H^+$
 #### ((608453d5-6abf-42ad-8ea0-25fa9c9b9ed4)) + P + NAD → **ATP + NADH**
@@ -27,7 +28,7 @@ Acetylo → 2 węglowa
 ##### bilans energetyczny **0** + ((608453d5-b115-4898-a084-23b56f907ab1))
 ##### reakcja utleniania
 #### powstaje pirogronian
-#####
+##### w reakcji otrzymywany 2x ATP
 ### Reakcja pomostowa
 #### dekarboksylacja
 #### przyłączenie 2 węglowej cząsteczki do koenzymu A → ((608693e4-a1b6-454a-83ec-130e1f665f13))
