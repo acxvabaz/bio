@@ -31,7 +31,7 @@ Acetylo → 2 węglowa
 #### ((608453d5-6abf-42ad-8ea0-25fa9c9b9ed4)) + P + NAD → **ATP + NADH**
 ##### ((608453d6-3aec-4535-b3ae-7b0efe24e0e6))
 ##### bilans energetyczny **0** + ((608453d5-b115-4898-a084-23b56f907ab1))
-##### reakcja utleniania
+##### **reakcja utleniania**
 #### powstaje pirogronian
 ##### w reakcji otrzymywany 2x ATP
 ### Reakcja pomostowa
