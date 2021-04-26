@@ -19,3 +19,6 @@ Acetylo → 2 węglowa
 :heading: true
 :END:
 ## fermentacja
+:PROPERTIES:
+:heading: true
+:END:
