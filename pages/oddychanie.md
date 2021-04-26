@@ -50,6 +50,7 @@ Acetylo → 2 węglowa
 :PROPERTIES:
 :heading: true
 :END:
+### ![](https://images-ext-1.discordapp.net/external/3dt7yB8v3l2iI5jwDTXGEa2cKkdcng10CJ_vUEy0rjA/%3Fwidth%3D705%26height%3D249/https/media.discordapp.net/attachments/738092871021756817/836192620924895242/unknown.png)
 ### Melkowa
 #### ((608698ff-f5fe-4c67-b3c7-ff3496b17bba)) → mleczan
 ##### redukcja, odzyskujemy NAD
