@@ -27,6 +27,7 @@ Acetylo → 2 węglowa
 ##### bilans energetyczny **0** + ((608453d5-b115-4898-a084-23b56f907ab1))
 ##### reakcja utleniania
 #### powstaje pirogronian
+#####
 ### Reakcja pomostowa
 #### dekarboksylacja
 #### przyłączenie 2 węglowej cząsteczki do koenzymu A → ((608693e4-a1b6-454a-83ec-130e1f665f13))
