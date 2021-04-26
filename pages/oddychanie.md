@@ -11,8 +11,5 @@ title: Oddychanie
 Acetylo → 2 węglowa
 ### ![](https://media.discordapp.net/attachments/738092871021756817/836187282628280340/unknown.png?width=705&height=302)
 ## Oddychanie Tlenowe
-:PROPERTIES:
-:background_color: #787f97
-:END:
 ## Oddychanie Beztlenowe
 ## fermentacja
