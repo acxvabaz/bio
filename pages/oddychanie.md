@@ -25,7 +25,8 @@ Acetylo → 2 węglowa
 ### Reakcja pomostowa
 #### dekarboksylacja
 #### przyłączenie 2 węglowej cząsteczki do koenzymu A → ((608693e4-a1b6-454a-83ec-130e1f665f13))
-####
+### Cykl krebsa
+### Łańcuch oddechowy
 ## Oddychanie Beztlenowe
 :PROPERTIES:
 :heading: true
