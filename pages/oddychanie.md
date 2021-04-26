@@ -33,6 +33,9 @@ Acetylo → 2 węglowa
 ##### bilans energetyczny **0** + ((608453d5-b115-4898-a084-23b56f907ab1))
 ##### **reakcja utleniania**
 #### powstaje pirogronian
+:PROPERTIES:
+:id: 608698ff-f5fe-4c67-b3c7-ff3496b17bba
+:END:
 ##### w reakcji otrzymywany 2x ATP
 ### Reakcja pomostowa
 #### dekarboksylacja
@@ -47,3 +50,5 @@ Acetylo → 2 węglowa
 :PROPERTIES:
 :heading: true
 :END:
+### Melkowa
+#### ((608698ff-f5fe-4c67-b3c7-ff3496b17bba))
