@@ -15,7 +15,7 @@ Acetylo → 2 węglowa
 :heading: true
 :END:
 ### ![](http://cdn-sciaga.pullit.pl/media/catalog/cache/vH72uO4rE0APShW7B0JbsL38hHCAY8DrveAj8RWj%252BuLLOSl9LzIrPurw46vaTFYM/glowne_etapy_oddychania_tlenowego_wg_wisniewski_1994_zmienione.png)
-###
+### zachodzi na [[mitochondria]]
 ### Glikoliza
 ####
 ## Oddychanie Beztlenowe
