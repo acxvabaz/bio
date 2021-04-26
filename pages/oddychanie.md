@@ -22,7 +22,9 @@ Acetylo → 2 węglowa
 ### Glikoliza
 #### 
 #+BEGIN_TIP
-2Pirogronian 2ATP 2NADH
+2Pirogronian 
+2ATP 
+2NADH
 #+END_TIP
 #### w cytozolu
 #### $C_6H_{12}O_6+ ATP + 2P + 2 NAD^+ → 2 CH3COCOOH + 2ATP + 2 NADH + H^+$
