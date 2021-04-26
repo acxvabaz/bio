@@ -7,4 +7,4 @@ title: Oddychanie
 ### ^^Acetylo-koenzym A^^
 #### węzeł mataboliczny
 → początek lub koniec wielu reakcji metabolicznych
-#### do przenoszenia gru acylowych
+#### do przenoszenia grup acylowych - łańcuchów węglowych
