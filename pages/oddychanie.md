@@ -14,7 +14,7 @@ Acetylo → 2 węglowa
 :PROPERTIES:
 :heading: true
 :END:
-##
+###
 ## Oddychanie Beztlenowe
 :PROPERTIES:
 :heading: true
