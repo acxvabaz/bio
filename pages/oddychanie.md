@@ -51,4 +51,5 @@ Acetylo → 2 węglowa
 :heading: true
 :END:
 ### Melkowa
-#### ((608698ff-f5fe-4c67-b3c7-ff3496b17bba))
+#### ((608698ff-f5fe-4c67-b3c7-ff3496b17bba)) → mleczan
+##### redukcja, odzyskujemy NAD
