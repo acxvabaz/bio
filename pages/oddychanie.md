@@ -14,6 +14,7 @@ Acetylo → 2 węglowa
 :PROPERTIES:
 :heading: true
 :END:
+###
 ### Glikoliza
 ####
 ## Oddychanie Beztlenowe
