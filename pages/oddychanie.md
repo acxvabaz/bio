@@ -64,6 +64,7 @@ Otrzymy wanie NADH+ do użycia w łańcuchu oddechowym
 #+END_TIP
 #### Restytucja NAD
 ##### NADH z glikolizy redukuje przenośnik który wchodzi do mitochondria
+##### Enzym katalizuje odbieranie elektronów i przekazuje na ((608453d5-2fe8-4e72-ba53-be3292acb3d7))
 ## Fermentacja
 :PROPERTIES:
 :heading: true
