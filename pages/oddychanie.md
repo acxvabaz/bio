@@ -42,10 +42,7 @@ Acetylo → 2 węglowa
 #### przyłączenie 2 węglowej cząsteczki do koenzymu A → ((608693e4-a1b6-454a-83ec-130e1f665f13))
 ### Cykl krebsa
 ### Łańcuch oddechowy
-## Oddychanie Beztlenowe
-:PROPERTIES:
-:heading: true
-:END:
+###
 ## Fermentacja
 :PROPERTIES:
 :heading: true
