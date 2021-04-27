@@ -63,7 +63,7 @@ Otrzymy wanie NADH+ do użycia w łańcuchu oddechowym
 - wydajność 40%
 #+END_TIP
 #### Restytucja NAD
-##### NADH z glikolizy redukuje
+##### NADH z glikolizy redukuje przenośnik który wchodzi do mitochondria
 ## Fermentacja
 :PROPERTIES:
 :heading: true
