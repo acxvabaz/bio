@@ -55,6 +55,7 @@ Otrzymy wanie NADH+ do użycia w łańcuchu oddechowym
 ###### bursztynylo-CoA → bursztynian
 ### Łańcuch oddechowy
 #### [[draws/2021-04-27-08-49-54.excalidraw]]
+#### W wyniku przekazywania elektronów przez kompleksy białkowe aktywnie transportujące H+ do błony no i reszte już robi gradient stężeń i [[Syntaza ATP]]
 ####
 ## Fermentacja
 :PROPERTIES:
