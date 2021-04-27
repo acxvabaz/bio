@@ -38,7 +38,7 @@ Acetylo → 2 węglowa
 :END:
 ##### w reakcji otrzymywany 2x ATP
 ### Reakcja pomostowa
-#### dekarboksylacja
+#### **oksydacyjna, dekarboksylacja**
 #### przyłączenie 2 węglowej cząsteczki do koenzymu A → ((608693e4-a1b6-454a-83ec-130e1f665f13))
 ### Cykl krebsa
 ### Łańcuch oddechowy
