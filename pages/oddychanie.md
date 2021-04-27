@@ -32,7 +32,7 @@ Acetylo → 2 węglowa
 ##### ((608453d6-3aec-4535-b3ae-7b0efe24e0e6))
 ##### bilans energetyczny **0** + ((608453d5-b115-4898-a084-23b56f907ab1))
 ##### **reakcja utleniania**
-#### powstaje pirogronian
+#### pirogronian
 :PROPERTIES:
 :id: 608698ff-f5fe-4c67-b3c7-ff3496b17bba
 :END:
