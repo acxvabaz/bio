@@ -40,6 +40,7 @@ Acetylo → 2 węglowa
 ### Reakcja pomostowa
 #### **oksydacyjna, dekarboksylacja**
 #### przyłączenie 2 węglowej cząsteczki do koenzymu A → ((608693e4-a1b6-454a-83ec-130e1f665f13))
+##### z 3 węglowego pirogronianu → 2 węglowy Acetylo-CoA
 ### Cykl krebsa
 ### Łańcuch oddechowy
 ###
