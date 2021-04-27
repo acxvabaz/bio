@@ -54,6 +54,6 @@ Acetylo → 2 węglowa
 #### ![](https://media.discordapp.net/attachments/738092871021756817/836193459395231744/unknown.png)
 #### ((608698ff-f5fe-4c67-b3c7-ff3496b17bba)) → mleczan
 ##### redukcja, odzyskujemy NAD
-####
+#### zachodzi w mięśniach jak nie ma tlenu, czerwonych krwinkach
 ### Alkoholowa
 ####
