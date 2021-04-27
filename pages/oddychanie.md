@@ -48,6 +48,7 @@ Acetylo → 2 węglowa
 ##### powstają ((608453d5-b115-4898-a084-23b56f907ab1)) i ((608453d5-2fe8-4e72-ba53-be3292acb3d7))
 ##### powstaje $CO_2$
 ##### ^^ATP^^ → ((608453d6-3aec-4535-b3ae-7b0efe24e0e6))
+###### bursztynylo-CoA → bursztynian
 ### Łańcuch oddechowy
 ###
 ## Fermentacja
