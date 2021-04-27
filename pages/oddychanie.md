@@ -59,7 +59,8 @@ Otrzymy wanie NADH+ do użycia w łańcuchu oddechowym
 #### 
 #+BEGIN_TIP
 **Bilans:**
-- 
+- 1 glukoza → ^^36^^ ATP
+- wydajność 40%
 #+END_TIP
 ####
 ## Fermentacja
