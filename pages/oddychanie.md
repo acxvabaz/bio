@@ -59,6 +59,7 @@ Otrzymy wanie NADH+ do użycia w łańcuchu oddechowym
 #### 
 #+BEGIN_TIP
 **Bilans:**
+- 
 #+END_TIP
 ####
 ## Fermentacja
