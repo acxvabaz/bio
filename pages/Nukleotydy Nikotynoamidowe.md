@@ -5,6 +5,9 @@ title: Nukleotydy Nikotynoamidowe
 
 # Nukleotydy Nikotynoamidowe
 ## NAD+
+:PROPERTIES:
+:id: 608453d5-3dca-4da1-b183-abe51a2cee12
+:END:
 - Dinukleotyd nikotynoamidoadeninowy
 ### NADH+ + H+
 :PROPERTIES:
@@ -26,5 +29,8 @@ Pozwalają na przeprowadzanie reakcji utleniania i rdukcji
 
 > **Przenoszenie protonów**
 ## FAD
+:PROPERTIES:
+:id: 608453d5-2fe8-4e72-ba53-be3292acb3d7
+:END:
 - dinukleotyd flawinoadeninowy
 - rekacje
