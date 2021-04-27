@@ -54,7 +54,8 @@ Otrzymy wanie NADH+ do użycia w łańcuchu oddechowym
 ##### ^^ATP^^ → ((608453d6-3aec-4535-b3ae-7b0efe24e0e6))
 ###### bursztynylo-CoA → bursztynian
 ### Łańcuch oddechowy
-#### {{}}
+#### [[draws/2021-04-27-08-49-54.excalidraw]]
+####
 ## Fermentacja
 :PROPERTIES:
 :heading: true
