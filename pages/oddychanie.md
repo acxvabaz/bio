@@ -58,7 +58,7 @@ Otrzymy wanie NADH+ do użycia w łańcuchu oddechowym
 #### W wyniku przekazywania elektronów przez kompleksy białkowe aktywnie transportujące H+ do błony no i reszte już robi gradient stężeń i [[Syntaza ATP]]
 #### 
 #+BEGIN_TIP
-dsdsd
+**Bilans:**
 #+END_TIP
 ####
 ## Fermentacja
