@@ -62,7 +62,8 @@ Otrzymy wanie NADH+ do użycia w łańcuchu oddechowym
 - 1 glukoza → ^^36^^ ATP
 - wydajność 40%
 #+END_TIP
-####
+#### Restytucja NAD
+##### NADH z glikolizy
 ## Fermentacja
 :PROPERTIES:
 :heading: true
