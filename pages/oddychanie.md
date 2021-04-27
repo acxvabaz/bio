@@ -43,6 +43,10 @@ Acetylo → 2 węglowa
 ##### z 3 węglowego pirogronianu → 2 węglowy Acetylo-CoA
 ### Cykl krebsa
 #### ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F3f%2FReverse_Krebs_cycle_pl.svg%2F1200px-Reverse_Krebs_cycle_pl.svg.png&f=1&nofb=1)
+#### 
+#+BEGIN_NOTE
+Otrzymy wanie NADH+ do użycia w łańcuchu oddechowym
+#+END_NOTE
 #### reakcje utleniania
 ##### z udziałem ((608453d5-3dca-4da1-b183-abe51a2cee12))
 ##### powstają ((608453d5-b115-4898-a084-23b56f907ab1)) i ((608453d5-2fe8-4e72-ba53-be3292acb3d7))
