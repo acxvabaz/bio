@@ -58,4 +58,4 @@ Acetylo → 2 węglowa
 ### Alkoholowa
 #### Dekarboksylacja
 ##### ((608698ff-f5fe-4c67-b3c7-ff3496b17bba)) → aldehyd octowy
-##### aldehyd octowy -redukcja z NADH+ )→
+##### aldehyd octowy (-redukcja z NADH+ )→  Alkohol etylowy
