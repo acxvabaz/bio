@@ -37,6 +37,9 @@ Acetylo → 2 węglowa
 :id: 608698ff-f5fe-4c67-b3c7-ff3496b17bba
 :END:
 ##### w reakcji otrzymywany 2x ATP
+#### fosfofruktokinaza
+##### stymyluje AMP
+##### inhibuje cytrynian
 ### Reakcja pomostowa
 #### **oksydacyjna, dekarboksylacja**
 #### przyłączenie 2 węglowej cząsteczki do koenzymu A → ((608693e4-a1b6-454a-83ec-130e1f665f13))
