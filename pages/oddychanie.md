@@ -97,3 +97,7 @@ Otrzymy wanie NADH+ do użycia w łańcuchu oddechowym
 #### zawartość $H_2O$
 #### Trucizny
 ##### CO, cyjanek potasu łączy się z grupą hem oksydazy cytochromowej
+#### substancje rozprzęgające
+##### Dinitrofenol
+###### DNP
+######
