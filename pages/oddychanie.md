@@ -109,5 +109,8 @@ Otrzymy wanie NADH+ do użycia w łańcuchu oddechowym
 ## Substraty oddychania
 ### cukry
 ### tłuszcze
-####
+- gromadzone wątrobie
+- triglicerydy → glicerol + kwasy tłuszczowe
+- glicerol → pirogronian / glukoza
+- kwasy tłuszczowe
 ### białko
