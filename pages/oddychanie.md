@@ -104,4 +104,5 @@ Otrzymy wanie NADH+ do użycia w łańcuchu oddechowym
 ###### powoduje rozszczelnianie błony mitochondria → protony przechodza nie tylko przez syntaza ATP
 ###### organizm podkręca metabolizm → środki odchudzające
 ##### **Termogenina**
-## rozprzęglanie fosforylacji oksydacyjnej
+###### rozprzęglanie fosforylacji oksydacyjnej
+###### kanał
