@@ -2,7 +2,10 @@
 title: Bakterie
 ---
 
-###
+### Denitryfikacyjne
+#### przeprowadzając oddychanie beztlenowe konwertują NO3 → N2
+#### zubożają glebe z azotu
+#### zabija je napowietrzanie gleby
 ### Nitryfikacyjne
 :PROPERTIES:
 :id: 6081439a-da79-4493-abb8-130aa62aa1f9
