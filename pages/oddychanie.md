@@ -69,6 +69,7 @@ Otrzymy wanie NADH+ do użycia w łańcuchu oddechowym
 :PROPERTIES:
 :heading: true
 :END:
+###
 ## Fermentacja
 :PROPERTIES:
 :heading: true
