@@ -3,6 +3,9 @@ title: Bakterie
 ---
 
 ### Denitryfikacyjne
+:PROPERTIES:
+:id: 608453d6-001c-4589-87d7-effc6a876a57
+:END:
 #### przeprowadzając oddychanie beztlenowe konwertują NO3 → N2
 #### zubożają glebe z azotu
 #### zabija je napowietrzanie gleby

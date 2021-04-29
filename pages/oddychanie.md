@@ -70,8 +70,8 @@ Otrzymy wanie NADH+ do użycia w łańcuchu oddechowym
 :heading: true
 :END:
 ### tak jak w tlenowym tylko że ostatecznym akceptorem elektronów jest inny związek.
-### [[Bakterie]] denitryfikacyjne
-#### zredukują NO3- do NO2-
+### {{embed ((608453d6-001c-4589-87d7-effc6a876a57))}}
+###
 ## Fermentacja
 :PROPERTIES:
 :heading: true
