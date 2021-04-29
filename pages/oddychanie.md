@@ -38,7 +38,7 @@ Acetylo → 2 węglowa
 :END:
 ##### w reakcji otrzymywany 2x ATP
 #### fosfofruktokinaza
-enzymy kontrolujące
+enzymy kontrolujące oddychanie
 ##### stymyluje AMP
 ##### inhibuje cytrynian
 ### Reakcja pomostowa
