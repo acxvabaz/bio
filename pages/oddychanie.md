@@ -100,4 +100,5 @@ Otrzymy wanie NADH+ do użycia w łańcuchu oddechowym
 #### substancje rozprzęgające
 ##### Dinitrofenol
 ###### DNP
-######
+###### składnik herbicydy fungicydy
+###### powoduje rozszczelnianie błony mitochondria → protony przechodza nie tylko przez syntaza ATP
