@@ -98,10 +98,10 @@ Otrzymy wanie NADH+ do użycia w łańcuchu oddechowym
 #### Trucizny
 ##### CO, cyjanek potasu łączy się z grupą hem oksydazy cytochromowej
 #### substancje rozprzęgające
-##### Dinitrofenol
+##### **Dinitrofenol**
 ###### DNP
 ###### składnik herbicydy fungicydy
 ###### powoduje rozszczelnianie błony mitochondria → protony przechodza nie tylko przez syntaza ATP
 ###### organizm podkręca metabolizm → środki odchudzające
-##### rozprzęglanie fosforylacji oksydacyjnej
-###### **Termogenina**
+##### **Termogenina**
+## rozprzęglanie fosforylacji oksydacyjnej
