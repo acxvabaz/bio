@@ -90,5 +90,7 @@ Otrzymy wanie NADH+ do użycia w łańcuchu oddechowym
 ##### ((608698ff-f5fe-4c67-b3c7-ff3496b17bba)) → aldehyd octowy
 ##### aldehyd octowy (-redukcja z NADH+ )→  Alkohol etylowy
 ## Porównania i inne takie
-###
-###
+### czynniki kontrolujące
+#### Temperatura
+#### duże stężenie $CO_2$
+####
