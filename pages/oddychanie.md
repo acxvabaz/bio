@@ -69,7 +69,7 @@ Otrzymy wanie NADH+ do użycia w łańcuchu oddechowym
 :PROPERTIES:
 :heading: true
 :END:
-### tak jak w tlenowym tylko że ostatecznym akceptorem elektronów jest
+### tak jak w tlenowym tylko że ostatecznym akceptorem elektronów jest tomczyktomczyk
 ## Fermentacja
 :PROPERTIES:
 :heading: true
