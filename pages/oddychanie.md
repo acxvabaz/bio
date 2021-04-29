@@ -111,6 +111,6 @@ Otrzymy wanie NADH+ do użycia w łańcuchu oddechowym
 ### tłuszcze
 - gromadzone wątrobie
 - triglicerydy → glicerol + kwasy tłuszczowe
-- glicerol → pirogronian / glukoza
-- kwasy tłuszczowe
+### glicerol → ((608698ff-f5fe-4c67-b3c7-ff3496b17bba)) / glukoza
+### kwasy tłuszczowe
 ### białko
