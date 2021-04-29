@@ -105,4 +105,4 @@ Otrzymy wanie NADH+ do użycia w łańcuchu oddechowym
 ###### organizm podkręca metabolizm → środki odchudzające
 ##### **Termogenina**
 ###### rozprzęglanie fosforylacji oksydacyjnej
-###### kanał
+###### kanał do odprowadzania H+ żeby generować ciepło zamiast ATP
