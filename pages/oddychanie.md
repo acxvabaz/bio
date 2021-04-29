@@ -94,4 +94,6 @@ Otrzymy wanie NADH+ do użycia w łańcuchu oddechowym
 #### Temperatura
 #### stężenie $CO_2$
 #### stężenie $O_2$
-####
+#### zawartość $H_2O$
+#### Trucizny
+##### CO, cyjanek potasu łączy się z grupą hem oksydazy cytochromowej
