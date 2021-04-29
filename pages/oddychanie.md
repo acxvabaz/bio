@@ -102,3 +102,4 @@ Otrzymy wanie NADH+ do użycia w łańcuchu oddechowym
 ###### DNP
 ###### składnik herbicydy fungicydy
 ###### powoduje rozszczelnianie błony mitochondria → protony przechodza nie tylko przez syntaza ATP
+###### organizm podkręca metabolizm
