@@ -92,5 +92,6 @@ Otrzymy wanie NADH+ do użycia w łańcuchu oddechowym
 ## Porównania i inne takie
 ### czynniki kontrolujące
 #### Temperatura
-#### duże stężenie $CO_2$
+#### stężenie $CO_2$
+#### stężenie $O_2$
 ####
