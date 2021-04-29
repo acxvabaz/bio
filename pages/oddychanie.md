@@ -107,6 +107,7 @@ Otrzymy wanie NADH+ do użycia w łańcuchu oddechowym
 ###### rozprzęglanie fosforylacji oksydacyjnej
 ###### kanał do odprowadzania H+ żeby generować ciepło zamiast ATP
 ## Substraty oddychania
-### cukier
+### cukry
 ### tłuszcze
+####
 ### białko
