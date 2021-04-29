@@ -106,7 +106,7 @@ Otrzymy wanie NADH+ do użycia w łańcuchu oddechowym
 ##### **Termogenina**
 ###### rozprzęglanie fosforylacji oksydacyjnej
 ###### kanał do odprowadzania H+ żeby generować ciepło zamiast ATP
-### Substraty oddychania
-#### cukier
-#### tłuszcze
-#### białko
+## Substraty oddychania
+### cukier
+### tłuszcze
+### białko
