@@ -115,5 +115,5 @@ Otrzymy wanie NADH+ do użycia w łańcuchu oddechowym
 #### kwasy tłuszczowe
 ##### $\beta$-oksydacja
 - rozpad kwasów tłuszczowych do ((608693e4-a1b6-454a-83ec-130e1f665f13))
-#####
+###### odszczepienie dwuwęglowej reszty acetylowej
 ### białko
