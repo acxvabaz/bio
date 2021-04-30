@@ -13,6 +13,7 @@ title: Oddychanie
 ### do przenoszenia grup acylowych - łańcuchów węglowych
 Acetylo → 2 węglowa
 ### ![](https://media.discordapp.net/attachments/738092871021756817/836187282628280340/unknown.png?width=705&height=302)
+### jak jest za dużo
 ## Oddychanie Tlenowe
 :PROPERTIES:
 :heading: true
