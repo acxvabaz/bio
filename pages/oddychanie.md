@@ -120,4 +120,4 @@ Otrzymy wanie NADH+ do użycia w łańcuchu oddechowym
 ###### udział ((608453d5-2fe8-4e72-ba53-be3292acb3d7)) do FAD zredukowanego
 #####
 ### białko
-####
+#### po odłączeniu grupy NH2
