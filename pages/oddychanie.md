@@ -117,4 +117,5 @@ Otrzymy wanie NADH+ do użycia w łańcuchu oddechowym
 - rozpad kwasów tłuszczowych do ((608693e4-a1b6-454a-83ec-130e1f665f13))
 ###### odszczepienie dwuwęglowej reszty acetylowej
 ###### udział ((608453d5-2fe8-4e72-ba53-be3292acb3d7))
+######
 ### białko
