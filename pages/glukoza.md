@@ -6,7 +6,7 @@ title: Glukoza
 ## Połączone ze sobą glukozy → ^^Glikogen^^
 ## Glikogen **NIE JEST SYNTEZOWANY ANI PRZEMIENIANY Z GLUKOZY**
 ## Glukoneogenezy
-### ![]()
+### ![](https://media.discordapp.net/attachments/738092871021756817/841262273124368464/unknown.png?width=592&height=675)
 ### Substraty
 #### Mleczan
 #### Aminokwasy
