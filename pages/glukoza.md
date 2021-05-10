@@ -29,3 +29,6 @@ title: Glukoza
 ### włączany do cyklu mocznikowego
 ### Powstaje **mocznik**
 ###
+---
+### Połączony z ((608e6cfa-709e-483c-a968-4d3808bd4c63))
+###

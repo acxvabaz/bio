@@ -50,6 +50,9 @@ enzymy kontrolujące oddychanie
 #### przyłączenie 2 węglowej cząsteczki do koenzymu A → ((608693e4-a1b6-454a-83ec-130e1f665f13))
 ##### ^^z 3 węglowego pirogronianu → 2 węglowy Acetylo-CoA^^
 ### Cykl krebsa
+:PROPERTIES:
+:id: 608e6cfa-709e-483c-a968-4d3808bd4c63
+:END:
 #### ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F3f%2FReverse_Krebs_cycle_pl.svg%2F1200px-Reverse_Krebs_cycle_pl.svg.png&f=1&nofb=1)
 #### 
 #+BEGIN_NOTE
