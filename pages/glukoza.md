@@ -19,6 +19,7 @@ title: Glukoza
 :PROPERTIES:
 :heading: true
 :END:
+### W cytoplazmie i mitochodnrium
 ### NH4+
 #### z mózgu → glutamina
 #### z mięśni → alanina
