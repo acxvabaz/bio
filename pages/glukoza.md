@@ -18,5 +18,5 @@ title: Glukoza
 ## Cykl mocznikowy
 ### NH4+
 #### z mózgu → glutamina
-#### z mięśni → alanina
+#### z mięśni → ((alanina))
 ####
