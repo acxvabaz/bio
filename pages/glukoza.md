@@ -31,4 +31,6 @@ title: Glukoza
 ###
 ---
 ### Połączony z ((608e6cfa-709e-483c-a968-4d3808bd4c63))
-###
+#### fumaran → powstaje w mocznikowym, używany w krebsie
+#### asparginian → powstaje w krebsie używany w mocznikowym
+####
