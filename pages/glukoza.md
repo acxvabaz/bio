@@ -23,4 +23,4 @@ title: Glukoza
 #### z mózgu → glutamina
 #### z mięśni → alanina
 ### W wątrobie łączony **NH4+ z CO2**
-####
+#### Powastaje karbamylofosforan
