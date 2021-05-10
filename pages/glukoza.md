@@ -2,6 +2,6 @@
 title: Glukoza
 ---
 
-## Glikogenogeneza
-* Powstawanie glikogenu
-##
+## Glukoza
+## Glikogen
+## Pirogronian
