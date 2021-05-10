@@ -25,3 +25,5 @@ title: Glukoza
 ### W wątrobie łączony **NH4+ z CO2**
 #### Powastaje **karbamylofosforan**
 ### włączany do cyklu mocznikowego
+### Powstaje **mocznik**
+###
