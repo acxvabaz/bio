@@ -2,4 +2,6 @@
 title: Glukoza
 ---
 
-## Glikogen
+## Glikogenogeneza
+* Powstawanie glikogenu
+##
