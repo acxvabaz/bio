@@ -2,6 +2,5 @@
 title: Glukoza
 ---
 
-## Glukoza
-## Glikogen
-## Pirogronian
+## Glukoza powstaje w procesie glikogenolizy z [[Glikogen]]
+##
