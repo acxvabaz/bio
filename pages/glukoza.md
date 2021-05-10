@@ -20,6 +20,7 @@ title: Glukoza
 :heading: true
 :END:
 ### W cytoplazmie i mitochodnrium
+#### bo potrzebne jest atp
 ### NH4+
 #### z mózgu → glutamina
 #### z mięśni → alanina
