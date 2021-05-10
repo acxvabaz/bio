@@ -26,7 +26,7 @@ title: Glukoza
 #### Powastaje **karbamylofosforan**
 ### włączany do cyklu mocznikowego
 ### Powstaje **mocznik**
-###
+### 
 ---
 #### W cytoplazmie i mitochodnrium
 ##### bo potrzebne jest atp
