@@ -15,3 +15,5 @@ title: Glukoza
 * tylko u bakterii
 * nie może być u człowieka
 * Bo zachodzi ((608e6cfa-0d77-49fb-ab8b-a85c7e2a23ac)) tylko w jedną stronę
+## Cykl mocznikowy
+###
