@@ -22,4 +22,5 @@ title: Glukoza
 ### NH4+
 #### z mózgu → glutamina
 #### z mięśni → alanina
-### W wątrobie
+### W wątrobie łączony **NH4+ z CO2**
+####
