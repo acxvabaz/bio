@@ -13,4 +13,4 @@ title: Glukoza
 #### ((608693e4-a1b6-454a-83ec-130e1f665f13)) 
 * tylko u bakterii
 * nie może być u człowieka
-*
+* Bo zachodzi **reakcja pomostowa** tylko w jedną stronę
