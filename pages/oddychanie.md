@@ -43,6 +43,9 @@ enzymy kontrolujące oddychanie
 ##### stymyluje AMP
 ##### inhibuje cytrynian
 ### Reakcja pomostowa
+:PROPERTIES:
+:id: 608e6cfa-0d77-49fb-ab8b-a85c7e2a23ac
+:END:
 #### **oksydacyjna, dekarboksylacja**
 #### przyłączenie 2 węglowej cząsteczki do koenzymu A → ((608693e4-a1b6-454a-83ec-130e1f665f13))
 ##### z 3 węglowego pirogronianu → 2 węglowy Acetylo-CoA
