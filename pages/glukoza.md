@@ -24,4 +24,4 @@ title: Glukoza
 #### z mięśni → alanina
 ### W wątrobie łączony **NH4+ z CO2**
 #### Powastaje **karbamylofosforan**
-####
+### włączany do cyklu mocznikowego
