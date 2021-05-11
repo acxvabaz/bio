@@ -7,4 +7,4 @@ title: Białka
 ### aminokwasy które muszą być dostarczane ^^egzogenne^^
 ## Synteza aminokwasów
 ### transaminacja
-####
+#### np. pirgronian - transaminacja -> alanina
