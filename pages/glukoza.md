@@ -44,4 +44,3 @@ title: Glukoza
 ## Szlak pentozofosforanowy
 ### Utlenianie z użyciem ((607068fa-9c7e-402f-816b-c852d81cd14b))
 ### powstawanie 5 cukrów
-##
