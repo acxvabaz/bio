@@ -35,4 +35,5 @@ title: Glukoza
 #### asparginian → powstaje w krebsie używany w mocznikowym
 ### Reakcja Endo ergiczne
 ## Cykl glioksalowy
+* U roślin oleistych
 * Pozwala na otrzymywanie Glukoza z Acetylo-koenzym A (przez szczawiooctan)
