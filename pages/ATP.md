@@ -34,8 +34,8 @@ $$ATP + H2O <=> ADP + PO_4^{3-} + H^+$$
 * Dostarczają energi **przenosząc grupę fosforanową**
 
 * glukoza + ATP → glukozo-P + ADP
-* glukozo-P jest na wyższym poziomie energetycznym
-* glukozo-P + fruktoza → sacharoza + P,,i,,
+	* glukozo-P jest na wyższym poziomie energetycznym
+	* glukozo-P + fruktoza → sacharoza + P,,i,,
 # ![](https://media.discordapp.net/attachments/738092871021756817/824939170468069406/unknown.png)
 
 
