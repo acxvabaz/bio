@@ -42,5 +42,8 @@ title: Glukoza
 * modyfikacja cyklu krebsa
 * Pozwala na otrzymywanie Glukoza z Acetylo-koenzym A (przez szczawiooctan)
 ## Szlak pentozofosforanowy
+:PROPERTIES:
+:id: 609a2621-fa61-43bd-8b67-8f8b5d1c3f0e
+:END:
 ### Utlenianie z użyciem ((607068fa-9c7e-402f-816b-c852d81cd14b))
 ### powstawanie 5 cukrów
