@@ -41,4 +41,4 @@ title: Glukoza
 * U roślin oleistych
 * modyfikacja cyklu krebsa
 * Pozwala na otrzymywanie Glukoza z Acetylo-koenzym A (przez szczawiooctan)
-##
+## Szlak pentozofosforanowy
