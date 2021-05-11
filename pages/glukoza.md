@@ -36,5 +36,5 @@ title: Glukoza
 ### Reakcja Endo ergiczne
 ## Cykl glioksalowy
 * U roślin oleistych
-**
+* modyfikacja cyklu krebsa
 * Pozwala na otrzymywanie Glukoza z Acetylo-koenzym A (przez szczawiooctan)
