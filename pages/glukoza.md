@@ -35,4 +35,4 @@ title: Glukoza
 #### asparginian → powstaje w krebsie używany w mocznikowym
 ### Reakcja Endo ergiczne
 ## Cykl glioksalowy
-- Pozwala
+- Pozwala na
