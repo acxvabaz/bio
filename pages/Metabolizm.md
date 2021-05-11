@@ -25,6 +25,7 @@ Wymagają dostarczenia energii
 - do reakcji musiała zostać dostarczona energia
 
 $$6CO2 + 6H2O + e.sw. -> C6H12O6 + O2 $$
+##
 # Katabolizm
 :PROPERTIES:
 :id: 60703703-fe09-43df-bcd8-8bf1c7b4cce4
