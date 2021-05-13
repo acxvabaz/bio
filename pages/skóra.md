@@ -17,4 +17,5 @@ title: Skóra
 *
 #### komórki langerhansa
 * reakcje immunologiczne
-###
+### Warstwa ziarnista
+## Skóra Właściwa
