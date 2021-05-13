@@ -9,4 +9,4 @@ title: Skóra
 * no kurde se tam coś wymyślisz
 ### odbieranie bodźców
 ### termoregulacja
-##
+## Keratynizacja
