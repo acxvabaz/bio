@@ -11,6 +11,9 @@ title: Skóra
 ### termoregulacja
 ## Keratynizacja
 ## Naskórek
+:PROPERTIES:
+:heading: true
+:END:
 ### warstwa podstawowa
 #### keranocyty
 #### melanocyty
@@ -19,3 +22,6 @@ title: Skóra
 * reakcje immunologiczne
 ### Warstwa ziarnista
 ## Skóra Właściwa
+:PROPERTIES:
+:heading: true
+:END:
