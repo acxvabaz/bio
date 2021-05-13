@@ -10,3 +10,9 @@ title: Skóra
 ### odbieranie bodźców
 ### termoregulacja
 ## Keratynizacja
+## Naskórek
+### warstwa podstawowa
+#### keranocyty
+#### melanocyty
+#### komórki langerhansa
+###
