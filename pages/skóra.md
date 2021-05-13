@@ -14,5 +14,7 @@ title: Skóra
 ### warstwa podstawowa
 #### keranocyty
 #### melanocyty
+*
 #### komórki langerhansa
+* reakcje immunologiczne
 ###
