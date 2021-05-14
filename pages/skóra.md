@@ -27,6 +27,8 @@ title: Skóra
 ##### gruczoły łojowe
 ##### mięsień przywłośny → stroszenie włosów
 ##### meszek
+#### Paznokcie
+#####
 ## Skóra Właściwa
 :PROPERTIES:
 :heading: true
