@@ -25,3 +25,5 @@ title: Skóra
 :PROPERTIES:
 :heading: true
 :END:
+### tkanka łączna
+###
