@@ -23,7 +23,7 @@ title: Skóra
 ### Warstwa ziarnista
 ### Wytwory naskórka
 #### Włosy
-####
+#####
 ## Skóra Właściwa
 :PROPERTIES:
 :heading: true
