@@ -47,6 +47,7 @@ title: Skóra
 :END:
 ### tkanka łączna
 ### Receptory
+rozmieszczone nie równomiernie w skórze
 #### ciałko Paciniego - ucisk
 #### ciałko ruffiniego - ciepło
 ##### głębiej w skórze
