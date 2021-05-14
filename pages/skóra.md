@@ -61,8 +61,9 @@ strafa komfortu termicznego
 #### informacjeo temp krew odbierana przez ośrodek termoregulacji w podwzgórze
 #### Mechanizm stroszenia
 ## Choroby skóry
-### łuszczyca
+### Łuszczyca
 #### proces tworzenia komórek naskórka jest szybki i jest duże nagromadzenia komórek a nie  potrafią się złuszczyć
 ### Trądzik pospolity
 #### zwiększona aktywność gruczołów łojowych
-### Grzybina
+### Grzybica
+####
