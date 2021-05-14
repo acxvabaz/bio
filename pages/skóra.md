@@ -59,4 +59,8 @@ rozmieszczone nie równomiernie w skórze
 #### Najlepsza temperatura: **21-24 C**
 strafa komfortu termicznego
 #### informacjeo temp krew odbierana przez ośrodek termoregulacji w podwzgórze
-#### Mechanizm stroszeniaKJljkKJff
+#### Mechanizm stroszenia
+## Choroby skóry
+### łuszczyca
+#### proces tworzenia komórek naskórka jest szybki i jest duże nagromadzenia komórek a nie  potrafią się złuszczyć
+### Trądzik pospolity
