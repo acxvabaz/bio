@@ -31,6 +31,7 @@ title: Skóra
 ##### Zwiększa **wrażliwość na dotyk** opuszki
 #### Gruczoły potowe
 ##### pot do termo regulacji
+##### funkcja wydzielnicza
 ## Skóra Właściwa
 :PROPERTIES:
 :heading: true
