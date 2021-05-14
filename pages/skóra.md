@@ -78,3 +78,6 @@ strafa komfortu termicznego
 #### wesz ludzka
 #### wysysa krew
 #### wywołuje swędzenie
+### Alergie
+### Nowotwory
+####
