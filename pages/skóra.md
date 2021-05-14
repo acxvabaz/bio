@@ -49,7 +49,8 @@ title: Skóra
 ### Receptory
 #### ciałko Paciniego - ucisk
 #### ciałko ruffiniego - ciepło
-##### bliżej powierzchni
+##### głębiej w skórze
 #### ciałko krauzego - zimno
+##### bliżej powierzchni
 #### ciałko meissnera - czucie dotyku
 #### wolne zakończenia nerwowe - ból
