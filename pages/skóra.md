@@ -57,4 +57,6 @@ rozmieszczone nie równomiernie w skórze
 #### wolne zakończenia nerwowe - ból
 ### Termoregulacja
 #### Najlepsza temperatura: **21-24 C**
-####
+strafa komfortu termicznego
+#### informacjeo temp krew odbierana przez ośrodek termoregulacji w podwzgórze
+#### Mechanizm stroszenia
