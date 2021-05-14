@@ -25,7 +25,7 @@ title: Skóra
 #### Włosy
 ##### czasowo wymieniane w przeciwieństwie do sierści
 ##### gruczoły łojowe
-#####
+##### mięsień przywłośny → stroszenie włosów
 ## Skóra Właściwa
 :PROPERTIES:
 :heading: true
