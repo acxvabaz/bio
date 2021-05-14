@@ -28,6 +28,8 @@ title: Skóra
 ##### mięsień przywłośny → stroszenie włosów
 ##### meszek
 #### Paznokcie
+##### Zwiększa **wrażliwość na dotyk** opuszki
+#### Gruczoły potowe
 #####
 ## Skóra Właściwa
 :PROPERTIES:
