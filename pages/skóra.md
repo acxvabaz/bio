@@ -59,4 +59,4 @@ rozmieszczone nie równomiernie w skórze
 #### Najlepsza temperatura: **21-24 C**
 strafa komfortu termicznego
 #### informacjeo temp krew odbierana przez ośrodek termoregulacji w podwzgórze
-#### Mechanizm stroszenia
+#### Mechanizm stroszeniaKJljkKJff
