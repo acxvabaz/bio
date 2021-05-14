@@ -25,6 +25,8 @@ title: Skóra
 #### Włosy
 ##### czasowo wymieniane w przeciwieństwie do sierści
 ##### gruczoły łojowe
+###### ^^gruczoł holokrynowy^^
+#######
 ##### mięsień przywłośny → stroszenie włosów
 ##### meszek
 #### Paznokcie
@@ -34,7 +36,7 @@ title: Skóra
 ##### pot do termo regulacji
 ##### funkcja wydzielnicza
 #### Gruczoły mleczne
-##### gruczoł apokrynowy
+##### ^^gruczoł apokrynowy^^
 ###### substancje zbierają się w szczytowej części komórki i uwalniają tą substancje wraz z fragmentami komórki
 ## Skóra Właściwa
 :PROPERTIES:
