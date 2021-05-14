@@ -79,5 +79,6 @@ strafa komfortu termicznego
 #### wysysa krew
 #### wywołuje swędzenie
 ### Alergie
+####
 ### Nowotwory
 #### melanocyty z reguły
