@@ -56,3 +56,4 @@ rozmieszczone nie równomiernie w skórze
 ##### bliżej powierzchni
 #### ciałko meissnera - czucie dotyku
 #### wolne zakończenia nerwowe - ból
+### Termoregulacja
