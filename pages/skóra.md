@@ -46,4 +46,10 @@ title: Skóra
 :heading: true
 :END:
 ### tkanka łączna
-###
+### Receptory
+#### ciałko Paciniego - ucisk
+#### ciałko ruffiniego - ciepło
+##### bliżej powierzchni
+#### ciałko krauzego - zimno
+#### ciałko meissnera - czucie dotyku
+#### wolne zakończenia nerwowe - ból
