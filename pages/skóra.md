@@ -72,4 +72,5 @@ strafa komfortu termicznego
 ### Ropne zapalenie skóry
 #### wniknięcie bakterii
 ### Świerzb
-####
+#### pasożytniczy pajęczal → świerzbowiec
+#### drąży pod skórą korzytarze
