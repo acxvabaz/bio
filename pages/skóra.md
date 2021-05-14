@@ -26,7 +26,7 @@ title: Skóra
 ##### czasowo wymieniane w przeciwieństwie do sierści
 ##### gruczoły łojowe
 ###### ^^gruczoł holokrynowy^^
-#######
+####### cała komórka z substancjami rozpada się i stanowi łój
 ##### mięsień przywłośny → stroszenie włosów
 ##### meszek
 #### Paznokcie
