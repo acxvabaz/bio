@@ -80,4 +80,4 @@ strafa komfortu termicznego
 #### wywołuje swędzenie
 ### Alergie
 ### Nowotwory
-####
+#### melanocyty z reguły
