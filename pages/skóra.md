@@ -32,6 +32,9 @@ title: Skóra
 #### Gruczoły potowe
 ##### pot do termo regulacji
 ##### funkcja wydzielnicza
+#### Gruczoły mleczne
+##### gruczoł apokrynowy
+###### substancje zbierają się w szczytowej części komórki i uwalniają tą substancje wraz z fragmentami komórki
 ## Skóra Właściwa
 :PROPERTIES:
 :heading: true
