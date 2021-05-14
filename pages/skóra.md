@@ -30,6 +30,7 @@ title: Skóra
 #### Paznokcie
 ##### Zwiększa **wrażliwość na dotyk** opuszki
 #### Gruczoły potowe
+##### gruczoł apokrynowy
 ##### pot do termo regulacji
 ##### funkcja wydzielnicza
 #### Gruczoły mleczne
