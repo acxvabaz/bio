@@ -64,3 +64,4 @@ strafa komfortu termicznego
 ### łuszczyca
 #### proces tworzenia komórek naskórka jest szybki i jest duże nagromadzenia komórek a nie  potrafią się złuszczyć
 ### Trądzik pospolity
+#### zwiększona aktywność gruczołów łojowych
