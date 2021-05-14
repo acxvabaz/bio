@@ -19,6 +19,7 @@ title: Skóra
 #### melanocyty
 #### komórki langerhansa
 * reakcje immunologiczne
+* fagocytowanie antygenów
 ### Warstwa ziarnista
 ### Wytwory naskórka
 #### Włosy
