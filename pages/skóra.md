@@ -30,7 +30,7 @@ title: Skóra
 #### Paznokcie
 ##### Zwiększa **wrażliwość na dotyk** opuszki
 #### Gruczoły potowe
-#####
+##### pot do termo regulacji
 ## Skóra Właściwa
 :PROPERTIES:
 :heading: true
