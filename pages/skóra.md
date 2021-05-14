@@ -75,4 +75,6 @@ strafa komfortu termicznego
 #### pasożytniczy pajęczal → świerzbowiec
 #### drąży pod skórą korytaże
 ### Wszawica
-####
+#### wesz ludzka
+#### wysysa krew
+#### wywołuje swędzenie
