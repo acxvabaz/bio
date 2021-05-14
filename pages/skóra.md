@@ -66,4 +66,6 @@ strafa komfortu termicznego
 ### Trądzik pospolity
 #### zwiększona aktywność gruczołów łojowych
 ### Grzybica
+#### zakażenie grzybem
+### Opryszczka
 ####
