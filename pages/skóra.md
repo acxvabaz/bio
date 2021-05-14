@@ -68,4 +68,8 @@ strafa komfortu termicznego
 ### Grzybica
 #### zakażenie grzybem
 ### Opryszczka
+#### zakażenie wirusa
+### Ropne zapalenie skóry
+#### wniknięcie bakterii
+### Świerzb
 ####
