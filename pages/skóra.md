@@ -23,6 +23,8 @@ title: Skóra
 ### Warstwa ziarnista
 ### Wytwory naskórka
 #### Włosy
+##### czasowo wymieniane w przeciwieństwie do sierści
+##### gruczoły łojowe
 #####
 ## Skóra Właściwa
 :PROPERTIES:
