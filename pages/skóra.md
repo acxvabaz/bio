@@ -21,6 +21,9 @@ title: Skóra
 #### komórki langerhansa
 * reakcje immunologiczne
 ### Warstwa ziarnista
+### Wytwory naskórka
+#### Włosy
+####
 ## Skóra Właściwa
 :PROPERTIES:
 :heading: true
