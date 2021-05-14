@@ -73,4 +73,6 @@ strafa komfortu termicznego
 #### wniknięcie bakterii
 ### Świerzb
 #### pasożytniczy pajęczal → świerzbowiec
-#### drąży pod skórą korzytarze
+#### drąży pod skórą korytaże
+### Wszawica
+####
