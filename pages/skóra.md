@@ -27,6 +27,9 @@ title: Skóra
 ##### gruczoły łojowe
 ###### ^^gruczoł holokrynowy^^
 ####### cała komórka z substancjami rozpada się i stanowi łój
+###### Łój
+####### kwasy tłuszczowe
+####### zwiększa wodoszczelność
 ##### mięsień przywłośny → stroszenie włosów
 ##### meszek
 #### Paznokcie
