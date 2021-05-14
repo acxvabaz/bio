@@ -81,3 +81,6 @@ strafa komfortu termicznego
 ### Alergie
 ### Nowotwory
 #### melanocyty z reguły
+### Oparzenia
+### Odmrożenia
+##
