@@ -56,3 +56,5 @@ rozmieszczone nie równomiernie w skórze
 #### ciałko meissnera - czucie dotyku
 #### wolne zakończenia nerwowe - ból
 ### Termoregulacja
+#### Najlepsza temperatura: **21-24 C**
+####
