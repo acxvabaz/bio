@@ -2,5 +2,5 @@
 :PROPERTIES:
 :heading: true
 :END:
-### Logseq (ten program) to outliner co oznacza że
+### Logseq (ten program) to outliner co oznacza że tekst funkcjonuje w blokach które można oznaczać np
 ##
