@@ -2,5 +2,5 @@
 :PROPERTIES:
 :heading: true
 :END:
-### Logseq (ten program) to outliner co oznacza że tekst funkcjonuje w blokach które można oznaczać np ((6081439a-da79-4493-abb8-130aa62aa1f9))
+### Logseq (ten program) to outliner co oznacza że tekst funkcjonuje w blokach w stronach które można oznaczać np [[Bakterie]] ((6081439a-da79-4493-abb8-130aa62aa1f9))
 ##
