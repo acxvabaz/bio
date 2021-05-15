@@ -1,4 +1,1 @@
 ##
-:PROPERTIES:
-:heading: true
-:END:
